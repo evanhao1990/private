@@ -1,0 +1,62 @@
+-- Burger menu clicks per category
+
+SELECT 
+	hits.eventInfo.eventLabel,
+	count(IF(hits.eventInfo.eventAction = 'Click' and hits.eventInfo.eventCategory = 'Service Bar', hits.eventInfo.eventLabel, null)) as clicks_menu
+
+FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113663276.ga_sessions_], TIMESTAMP('2017-12-01'), TIMESTAMP('2017-12-27')))
+
+WHERE geoNetwork.country = "Germany"
+  
+group by 1
+order by 2 desc
+
+-- burger menu analysis
+
+SELECT
+date,
+WEEK(date) as week,
+MONTH(date) as month,
+YEAR(date) as year,
+CONCAT(cast(YEAR(date) as string),'-',CAST(WEEK(date) as string)) as year_week,
+user_type, 
+'VM' as brand,
+
+count(master.session_code) as number_sessions,
+
+sum(master.PV) as PageViews,
+sum(master.hits) as hits,
+
+sum(master.PLPs) as PLPs,
+sum(master.PDPs) as PDPs,
+sum(master.burger_clicks) as burger_clicks,
+sum(master.banner_clicks) as banner_clicks,
+sum(master.GIS) as GIS
+
+FROM (
+      SELECT
+      date,
+      CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+      (case when device.isMobile = false then 'desktop' else 'mobile' end) as user_type,
+      
+      totals.pageviews as PV,
+      totals.hits as hits,
+      
+      count(case when hits.eventInfo.eventAction <> 'Open' and hits.eventInfo.eventCategory = 'Service Bar' then 1 else null end) as burger_clicks,
+      count(case when hits.eventInfo.eventAction = 'PromotionClick' and hits.eventInfo.eventCategory = 'Ecommerce' then 1 else null end) as banner_clicks,
+      count(IF(hits.eventInfo.eventAction ='Load' and hits.eventinfo.eventcategory = 'Ecommerce' and hits.product.productListName = 'main',
+            hits.product.productListPosition,null)) as PLPs,
+      count(IF((hits.type = 'PAGE' and hits.product.productListName = 'packshot') or (hits.eventInfo.eventAction ='Select' and hits.eventinfo.eventcategory = 'Color' and hits.product.productListName = 'packshot'), 
+             hits.product.productListPosition, null)) as PDPs,
+      COUNT(hits.item.transactionId) as GIS
+
+      
+      FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113676549.ga_sessions_], TIMESTAMP('2017-04-03'), TIMESTAMP('2018-03-20')))  # VM
+
+
+      WHERE totals.pageviews > 2
+        and channelGrouping in ('Paid Search','Direct','Organic Search') 
+      group by 1,2,3,4,5
+      ) master
+GROUP BY 1,2,3,4,5,6,7
+order by 1,6 asc

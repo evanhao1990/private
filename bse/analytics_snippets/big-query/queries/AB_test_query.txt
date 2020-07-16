@@ -1,0 +1,62 @@
+/*
+AB tests are tracked in the events corresponding to the test (eg. Burger Menu AB test data will be sent in case there's an interaction with the menu)
+
+In terms of data:
+- hits.eventInfo.eventCategory has the name of the software used to create the test, so far there's just one tool for which we can track data - 'Monetate'
+- hits.eventInfo.eventAction shall correspond to the name of the test (eg: 'Showing Product Name & Price on PDP')
+- hits.eventInfo.eventLabel corresponds to the website version seen by the user. Can be either Control or Experiment
+
+Note: Currently (2019-02-06) only AB tests from Monetate are being tracked. The traffic team is working on making sure the other ones will be tracked as well (eg. DMW)
+*/
+
+SELECT  
+hits.page.hostname as storefront,
+hits.eventInfo.eventCategory,
+hits.eventInfo.eventAction,
+hits.eventInfo.eventLabel
+
+FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113676549.ga_sessions_], TIMESTAMP('2018-07-01'), TIMESTAMP('2019-01-31'))) # VM
+  
+where hits.eventInfo.eventCategory = 'Monetate'
+group by 1,2,3,4
+order by 1,2 asc
+
+########## Pedro request - AB test version and number of sessions with click in banner ###############
+
+SELECT
+master.storefront,
+master.test_version,
+CASE WHEN sub.discover_clicks = 0 then 0 else 1 end as click_banner_flag,
+count(master.session_code) as nb_sessions
+FROM (
+      SELECT  
+      hits.page.hostname as storefront,
+      CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+      case when hits.eventInfo.eventCategory = 'Monetate' 
+          and hits.eventInfo.eventAction = 'ON-VM-VL-Burger_873357' then hits.eventInfo.eventLabel end as test_version
+
+      FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113676549.ga_sessions_], TIMESTAMP('2018-07-05'), TIMESTAMP('2018-07-17'))), # VM
+      (TABLE_DATE_RANGE([ga-360-bigquery-api:113635108.ga_sessions_], TIMESTAMP('2018-07-05'), TIMESTAMP('2018-07-17'))), # ON
+      (TABLE_DATE_RANGE([ga-360-bigquery-api:113698901.ga_sessions_], TIMESTAMP('2018-07-05'), TIMESTAMP('2018-07-17'))) # VL
+
+      group by 1,2,3
+      ) master
+
+INNER JOIN (
+      SELECT  
+      hits.page.hostname as storefront,
+      CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+      count(case when hits.eventInfo.eventAction = 'Discover' and hits.eventInfo.eventCategory = 'Service Bar' then 1 else null end) as discover_clicks
+
+      FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113676549.ga_sessions_], TIMESTAMP('2018-07-05'), TIMESTAMP('2018-07-17'))), # VM
+      (TABLE_DATE_RANGE([ga-360-bigquery-api:113635108.ga_sessions_], TIMESTAMP('2018-07-05'), TIMESTAMP('2018-07-17'))), # ON
+      (TABLE_DATE_RANGE([ga-360-bigquery-api:113698901.ga_sessions_], TIMESTAMP('2018-07-05'), TIMESTAMP('2018-07-17'))) # VL
+
+      group by 1,2
+    ) sub on sub.session_code = master.session_code and sub.storefront = master.storefront
+
+group by 1,2,3
+HAVING master.test_version is not null
+
+
+

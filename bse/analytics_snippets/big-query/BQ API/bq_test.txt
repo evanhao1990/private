@@ -1,0 +1,58 @@
+### Loading time analysis
+# group sessions per average loading time
+# average page views, pdps and plps
+# average conversion rate
+
+SELECT
+case when master.avg_load_time < 1.5 then '1-1.5'
+    when master.avg_load_time between 1.5 and 2 then '1.5-2'
+    when master.avg_load_time between 2.0 and 2.5 then '2-2.5'
+    when master.avg_load_time between 2.5 and 3 then '2.5-3'
+    when master.avg_load_time between 3 and 3.5 then '3-3.5'
+    when master.avg_load_time between 3.5 and 4 then '3.5-4'
+    when master.avg_load_time between 4 and 4.5 then '4-4.5'
+    when master.avg_load_time between 4.5 and 5 then '4.5-5'
+    when master.avg_load_time between 5 and 5.5 then '5-5.5'
+    when master.avg_load_time between 5.5 and 6 then '5.5-6'
+    when master.avg_load_time between 6 and 6.5 then '6-6.5'
+    when master.avg_load_time between 6.5 and 7 then '6.5-7'
+    when master.avg_load_time between 7 and 7.5 then '7-7.5'
+    when master.avg_load_time between 7.5 and 8 then '7.5-8'
+    when master.avg_load_time between 8 and 8.5 then '8-8.5'
+    when master.avg_load_time between 8.5 and 9 then '8.5-9'
+    when master.avg_load_time between 9 and 9.5 then '9-9.5'
+    when master.avg_load_time between 9.5 and 10 then '9.5-10'
+    else '>11' end as loading_time_group,
+    
+count(master.session_code) as number_sessions,
+sum(master.pv)/count(master.session_code) as pv_per_sess,
+sum(master.PLPs)/count(master.session_code) as PLPs_per_session,
+sum(master.PDPs)/count(master.session_code) as PDPs_per_session,
+sum(master.tr)/count(master.session_code) as conversion
+
+FROM (
+      SELECT
+      date,
+      
+      CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+      
+      totals.hits as h,
+      totals.pageviews as pv,
+      IF(totals.transactions is not null,totals.transactions,0) as tr,
+      
+      # average loading time per event (site speed event) sum of loading time on events in session (seconds) / number of events with time in session
+      (sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', hits.eventInfo.eventValue, 0))/1000) / 
+        sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', 1, 0)) as avg_load_time,
+
+      count(IF(hits.product.productListName = 'main',hits.product.productListPosition,null)) as PLPs,
+      count(IF(hits.product.productListName = 'packshot', hits.product.productListPosition, null)) as PDPs
+
+      FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:112804024.ga_sessions_], TIMESTAMP('2018-02-03'), TIMESTAMP('2018-02-15')))
+
+      group by 1,2,3,4,5
+     ) master
+
+Where master.PLPs > 0
+  and master.avg_load_time between 1 and 10
+group by 1
+order by 1

@@ -1,0 +1,306 @@
+INFO: 2019/03/09 11:25:27: 214: main: https://www.pieces.com/de/de/home
+INFO: 2019/03/09 11:25:28: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/jacken/
+INFO: 2019/03/09 11:25:29: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/jacken/?sz=60&start=0
+INFO: 2019/03/09 11:25:30: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:30: 227: main: category url: https://www.pieces.com/de/de/pc/accessoires/socken/
+INFO: 2019/03/09 11:25:31: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/socken/?sz=60&start=0
+INFO: 2019/03/09 11:25:32: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:32: 227: main: category url: https://www.pieces.com/de/de/pc/schuhe/stiefel/
+INFO: 2019/03/09 11:25:33: 256: main: active url: https://www.pieces.com/de/de/pc/schuhe/stiefel/?sz=60&start=0
+INFO: 2019/03/09 11:25:34: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:34: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/leggings-and-hosen/
+INFO: 2019/03/09 11:25:34: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/leggings-and-hosen/?sz=60&start=0
+INFO: 2019/03/09 11:25:36: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:36: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/leggings-and-hosen/?sz=60&start=60
+INFO: 2019/03/09 11:25:37: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:37: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/jacken/jacken-and-blazer/
+INFO: 2019/03/09 11:25:38: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/jacken/jacken-and-blazer/?sz=60&start=0
+INFO: 2019/03/09 11:25:39: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:39: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/jumpsuits/
+INFO: 2019/03/09 11:25:40: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/jumpsuits/?sz=60&start=0
+INFO: 2019/03/09 11:25:41: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:41: 227: main: category url: https://www.pieces.com/de/de/pc/taschen/handtaschen-and-umhaengetaschen/
+INFO: 2019/03/09 11:25:42: 256: main: active url: https://www.pieces.com/de/de/pc/taschen/handtaschen-and-umhaengetaschen/?sz=60&start=0
+INFO: 2019/03/09 11:25:43: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:43: 256: main: active url: https://www.pieces.com/de/de/pc/taschen/handtaschen-and-umhaengetaschen/?sz=60&start=60
+INFO: 2019/03/09 11:25:44: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:44: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/basics/
+INFO: 2019/03/09 11:25:45: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/basics/?sz=60&start=0
+INFO: 2019/03/09 11:25:47: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:47: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/basics/?sz=60&start=60
+INFO: 2019/03/09 11:25:48: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:48: 227: main: category url: https://www.pieces.com/de/de/pc/accessoires/guertel/
+INFO: 2019/03/09 11:25:48: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/guertel/?sz=60&start=0
+INFO: 2019/03/09 11:25:50: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:50: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/guertel/?sz=60&start=60
+INFO: 2019/03/09 11:25:51: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:51: 227: main: category url: https://www.pieces.com/de/de/pc/accessoires/
+INFO: 2019/03/09 11:25:51: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/?sz=60&start=0
+INFO: 2019/03/09 11:25:53: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:53: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/?sz=60&start=60
+INFO: 2019/03/09 11:25:54: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:54: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/?sz=60&start=120
+INFO: 2019/03/09 11:25:56: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:56: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/?sz=60&start=180
+INFO: 2019/03/09 11:25:57: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:57: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/?sz=60&start=240
+INFO: 2019/03/09 11:25:59: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:25:59: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/?sz=60&start=300
+INFO: 2019/03/09 11:26:00: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:00: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/?sz=60&start=360
+INFO: 2019/03/09 11:26:02: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:02: 227: main: category url: https://www.pieces.com/de/de/pc/taschen/
+INFO: 2019/03/09 11:26:02: 256: main: active url: https://www.pieces.com/de/de/pc/taschen/?sz=60&start=0
+INFO: 2019/03/09 11:26:04: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:04: 256: main: active url: https://www.pieces.com/de/de/pc/taschen/?sz=60&start=60
+INFO: 2019/03/09 11:26:05: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:05: 256: main: active url: https://www.pieces.com/de/de/pc/taschen/?sz=60&start=120
+INFO: 2019/03/09 11:26:06: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:06: 227: main: category url: https://www.pieces.com/de/de/pc/taschen/shopper-and-reisetaschen/
+INFO: 2019/03/09 11:26:07: 256: main: active url: https://www.pieces.com/de/de/pc/taschen/shopper-and-reisetaschen/?sz=60&start=0
+INFO: 2019/03/09 11:26:08: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:08: 227: main: category url: https://www.pieces.com/de/de/pc/accessoires/winteraccessoires/
+INFO: 2019/03/09 11:26:09: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/winteraccessoires/?sz=60&start=0
+INFO: 2019/03/09 11:26:11: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:11: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/winteraccessoires/?sz=60&start=60
+INFO: 2019/03/09 11:26:13: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:13: 227: main: category url: https://www.pieces.com/de/de/pc/schuhe/flache-schuhe/
+INFO: 2019/03/09 11:26:14: 256: main: active url: https://www.pieces.com/de/de/pc/schuhe/flache-schuhe/?sz=60&start=0
+INFO: 2019/03/09 11:26:16: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:16: 227: main: category url: https://www.pieces.com/de/de/pc/accessoires/huete-and-sonnenbrillen/
+INFO: 2019/03/09 11:26:16: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/huete-and-sonnenbrillen/?sz=60&start=0
+INFO: 2019/03/09 11:26:18: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:18: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/huete-and-sonnenbrillen/?sz=60&start=60
+INFO: 2019/03/09 11:26:19: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:19: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/roecke/
+INFO: 2019/03/09 11:26:20: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/roecke/?sz=60&start=0
+INFO: 2019/03/09 11:26:21: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:21: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/roecke/?sz=60&start=60
+INFO: 2019/03/09 11:26:22: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:22: 227: main: category url: https://www.pieces.com/de/de/pc/schuhe/stilettos-and-pumps/
+INFO: 2019/03/09 11:26:23: 256: main: active url: https://www.pieces.com/de/de/pc/schuhe/stilettos-and-pumps/?sz=60&start=0
+INFO: 2019/03/09 11:26:25: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:25: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/kleider/
+INFO: 2019/03/09 11:26:25: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/kleider/?sz=60&start=0
+INFO: 2019/03/09 11:26:27: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:27: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/kleider/?sz=60&start=60
+INFO: 2019/03/09 11:26:28: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:28: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/kleider/?sz=60&start=120
+INFO: 2019/03/09 11:26:29: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:29: 227: main: category url: https://www.pieces.com/de/de/pc/neuheiten/
+INFO: 2019/03/09 11:26:30: 256: main: active url: https://www.pieces.com/de/de/pc/neuheiten/?sz=60&start=0
+INFO: 2019/03/09 11:26:32: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:32: 256: main: active url: https://www.pieces.com/de/de/pc/neuheiten/?sz=60&start=60
+INFO: 2019/03/09 11:26:33: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:33: 256: main: active url: https://www.pieces.com/de/de/pc/neuheiten/?sz=60&start=120
+INFO: 2019/03/09 11:26:35: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:35: 256: main: active url: https://www.pieces.com/de/de/pc/neuheiten/?sz=60&start=180
+INFO: 2019/03/09 11:26:36: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:36: 256: main: active url: https://www.pieces.com/de/de/pc/neuheiten/?sz=60&start=240
+INFO: 2019/03/09 11:26:38: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:38: 256: main: active url: https://www.pieces.com/de/de/pc/neuheiten/?sz=60&start=300
+INFO: 2019/03/09 11:26:40: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:40: 227: main: category url: https://www.pieces.com/de/de/pc/geschenkgutscheine/
+INFO: 2019/03/09 11:26:41: 244: main: active url: https://www.pieces.com/de/de/pc/geschenkgutscheine/ is not a PLP page
+INFO: 2019/03/09 11:26:41: 227: main: category url: https://www.pieces.com/de/de/pc/schuhe/sandalen/
+INFO: 2019/03/09 11:26:42: 256: main: active url: https://www.pieces.com/de/de/pc/schuhe/sandalen/?sz=60&start=0
+INFO: 2019/03/09 11:26:44: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:44: 227: main: category url: https://www.pieces.com/de/de/pc/taschen/shopper/
+INFO: 2019/03/09 11:26:45: 256: main: active url: https://www.pieces.com/de/de/pc/taschen/shopper/?sz=60&start=0
+INFO: 2019/03/09 11:26:46: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:46: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/unterwaesche/
+INFO: 2019/03/09 11:26:47: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/unterwaesche/?sz=60&start=0
+INFO: 2019/03/09 11:26:48: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:48: 227: main: category url: https://www.pieces.com/de/de/pc/trending/
+INFO: 2019/03/09 11:26:49: 256: main: active url: https://www.pieces.com/de/de/pc/trending/?sz=60&start=0
+INFO: 2019/03/09 11:26:50: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:50: 256: main: active url: https://www.pieces.com/de/de/pc/trending/?sz=60&start=60
+INFO: 2019/03/09 11:26:52: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:52: 227: main: category url: https://www.pieces.com/de/de/pc/accessoires/schmuck/
+INFO: 2019/03/09 11:26:53: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/schmuck/?sz=60&start=0
+INFO: 2019/03/09 11:26:54: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:54: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/schmuck/?sz=60&start=60
+INFO: 2019/03/09 11:26:56: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:56: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/schmuck/?sz=60&start=120
+INFO: 2019/03/09 11:26:57: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:26:57: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/jeans/
+INFO: 2019/03/09 11:26:58: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/jeans/?sz=60&start=0
+INFO: 2019/03/09 11:27:00: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:00: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/jeans/?sz=60&start=60
+WARNING: 2019/03/09 11:27:02: 276: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/jeans/?sz=60&start=60 was empty
+INFO: 2019/03/09 11:27:02: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/shorts/
+INFO: 2019/03/09 11:27:03: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/unterteile/shorts/?sz=60&start=0
+INFO: 2019/03/09 11:27:04: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:04: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/bademode/
+INFO: 2019/03/09 11:27:06: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/bademode/?sz=60&start=0
+INFO: 2019/03/09 11:27:07: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:07: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/
+INFO: 2019/03/09 11:27:08: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/?sz=60&start=0
+INFO: 2019/03/09 11:27:09: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:09: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/?sz=60&start=60
+INFO: 2019/03/09 11:27:12: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:12: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/?sz=60&start=120
+INFO: 2019/03/09 11:27:14: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:14: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/?sz=60&start=180
+INFO: 2019/03/09 11:27:15: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:15: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/?sz=60&start=240
+INFO: 2019/03/09 11:27:17: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:17: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/?sz=60&start=300
+INFO: 2019/03/09 11:27:18: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:18: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/?sz=60&start=360
+INFO: 2019/03/09 11:27:20: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:20: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/?sz=60&start=420
+WARNING: 2019/03/09 11:27:21: 276: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/?sz=60&start=420 was empty
+INFO: 2019/03/09 11:27:21: 227: main: category url: https://www.pieces.com/de/de/pc/trends/vacation/
+INFO: 2019/03/09 11:27:22: 256: main: active url: https://www.pieces.com/de/de/pc/trends/vacation/?sz=60&start=0
+INFO: 2019/03/09 11:27:23: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:23: 256: main: active url: https://www.pieces.com/de/de/pc/trends/vacation/?sz=60&start=60
+INFO: 2019/03/09 11:27:26: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:26: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/strick/
+INFO: 2019/03/09 11:27:27: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/strick/?sz=60&start=0
+INFO: 2019/03/09 11:27:28: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:28: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/strick/?sz=60&start=60
+INFO: 2019/03/09 11:27:30: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:30: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/oberteile/strick/?sz=60&start=120
+INFO: 2019/03/09 11:27:32: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:32: 227: main: category url: https://www.pieces.com/de/de/pc/gute-angebote/
+INFO: 2019/03/09 11:27:32: 256: main: active url: https://www.pieces.com/de/de/pc/gute-angebote/?sz=60&start=0
+INFO: 2019/03/09 11:27:34: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:34: 256: main: active url: https://www.pieces.com/de/de/pc/gute-angebote/?sz=60&start=60
+INFO: 2019/03/09 11:27:35: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:35: 256: main: active url: https://www.pieces.com/de/de/pc/gute-angebote/?sz=60&start=120
+INFO: 2019/03/09 11:27:37: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:37: 256: main: active url: https://www.pieces.com/de/de/pc/gute-angebote/?sz=60&start=180
+INFO: 2019/03/09 11:27:38: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:38: 256: main: active url: https://www.pieces.com/de/de/pc/gute-angebote/?sz=60&start=240
+INFO: 2019/03/09 11:27:39: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:39: 256: main: active url: https://www.pieces.com/de/de/pc/gute-angebote/?sz=60&start=300
+INFO: 2019/03/09 11:27:41: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:41: 256: main: active url: https://www.pieces.com/de/de/pc/gute-angebote/?sz=60&start=360
+INFO: 2019/03/09 11:27:43: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:43: 256: main: active url: https://www.pieces.com/de/de/pc/gute-angebote/?sz=60&start=420
+INFO: 2019/03/09 11:27:44: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:44: 256: main: active url: https://www.pieces.com/de/de/pc/gute-angebote/?sz=60&start=480
+INFO: 2019/03/09 11:27:45: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:45: 227: main: category url: https://www.pieces.com/de/de/pc/accessoires/schals/
+INFO: 2019/03/09 11:27:46: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/schals/?sz=60&start=0
+INFO: 2019/03/09 11:27:47: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:47: 256: main: active url: https://www.pieces.com/de/de/pc/accessoires/schals/?sz=60&start=60
+INFO: 2019/03/09 11:27:49: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:49: 227: main: category url: https://www.pieces.com/de/de/pc/ready-to-wear/
+INFO: 2019/03/09 11:27:50: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=0
+INFO: 2019/03/09 11:27:51: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:51: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=60
+INFO: 2019/03/09 11:27:53: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:53: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=120
+INFO: 2019/03/09 11:27:55: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:55: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=180
+INFO: 2019/03/09 11:27:56: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:27:56: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=240
+INFO: 2019/03/09 11:28:02: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:02: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=300
+INFO: 2019/03/09 11:28:03: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:03: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=360
+INFO: 2019/03/09 11:28:05: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:05: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=420
+INFO: 2019/03/09 11:28:11: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:11: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=480
+INFO: 2019/03/09 11:28:16: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:16: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=540
+INFO: 2019/03/09 11:28:18: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:18: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=600
+INFO: 2019/03/09 11:28:20: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:20: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=660
+INFO: 2019/03/09 11:28:26: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:26: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=720
+INFO: 2019/03/09 11:28:31: 267: main: page 13: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:31: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=780
+INFO: 2019/03/09 11:28:33: 267: main: page 14: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:33: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=840
+INFO: 2019/03/09 11:28:34: 267: main: page 15: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:34: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=900
+INFO: 2019/03/09 11:28:40: 267: main: page 16: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:40: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=960
+INFO: 2019/03/09 11:28:44: 267: main: page 17: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:44: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=1020
+INFO: 2019/03/09 11:28:50: 267: main: page 18: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:50: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=1080
+INFO: 2019/03/09 11:28:55: 267: main: page 19: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:28:55: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=1140
+INFO: 2019/03/09 11:29:00: 267: main: page 20: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:01: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=1200
+INFO: 2019/03/09 11:29:06: 267: main: page 21: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:06: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=1260
+INFO: 2019/03/09 11:29:10: 267: main: page 22: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:10: 256: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=1320
+WARNING: 2019/03/09 11:29:11: 276: main: active url: https://www.pieces.com/de/de/pc/ready-to-wear/?sz=60&start=1320 was empty
+INFO: 2019/03/09 11:29:11: 227: main: category url: https://www.pieces.com/de/de/search?=*&lang=de/
+INFO: 2019/03/09 11:29:12: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=0
+INFO: 2019/03/09 11:29:13: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:13: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=60
+INFO: 2019/03/09 11:29:15: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:15: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=120
+INFO: 2019/03/09 11:29:17: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:17: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=180
+INFO: 2019/03/09 11:29:21: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:21: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=240
+INFO: 2019/03/09 11:29:23: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:23: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=300
+INFO: 2019/03/09 11:29:26: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:26: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=360
+INFO: 2019/03/09 11:29:29: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:29: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=420
+INFO: 2019/03/09 11:29:32: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:32: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=480
+INFO: 2019/03/09 11:29:36: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:36: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=540
+INFO: 2019/03/09 11:29:38: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:38: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=600
+INFO: 2019/03/09 11:29:41: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:41: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=660
+INFO: 2019/03/09 11:29:45: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:45: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=720
+INFO: 2019/03/09 11:29:48: 267: main: page 13: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:48: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=780
+INFO: 2019/03/09 11:29:52: 267: main: page 14: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:52: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=840
+INFO: 2019/03/09 11:29:55: 267: main: page 15: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:55: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=900
+INFO: 2019/03/09 11:29:59: 267: main: page 16: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:29:59: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=960
+INFO: 2019/03/09 11:30:01: 267: main: page 17: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:01: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1020
+INFO: 2019/03/09 11:30:05: 267: main: page 18: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:05: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1080
+INFO: 2019/03/09 11:30:09: 267: main: page 19: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:09: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1140
+INFO: 2019/03/09 11:30:12: 267: main: page 20: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:12: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1200
+INFO: 2019/03/09 11:30:16: 267: main: page 21: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:16: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1260
+INFO: 2019/03/09 11:30:20: 267: main: page 22: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:20: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1320
+INFO: 2019/03/09 11:30:23: 267: main: page 23: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:23: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1380
+INFO: 2019/03/09 11:30:27: 267: main: page 24: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:27: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1440
+INFO: 2019/03/09 11:30:32: 267: main: page 25: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:32: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1500
+INFO: 2019/03/09 11:30:36: 267: main: page 26: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:36: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1560
+INFO: 2019/03/09 11:30:41: 267: main: page 27: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:41: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1620
+INFO: 2019/03/09 11:30:44: 267: main: page 28: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:44: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1680
+INFO: 2019/03/09 11:30:50: 267: main: page 29: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:50: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1740
+INFO: 2019/03/09 11:30:54: 267: main: page 30: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:54: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1800
+INFO: 2019/03/09 11:30:58: 267: main: page 31: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:30:58: 256: main: active url: https://www.pieces.com/de/de/search?=*&lang=de/?sz=60&start=1860
+INFO: 2019/03/09 11:31:03: 267: main: page 32: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:31:03: 227: main: category url: https://www.pieces.com/de/de/pc/schuhe/
+INFO: 2019/03/09 11:31:03: 256: main: active url: https://www.pieces.com/de/de/pc/schuhe/?sz=60&start=0
+INFO: 2019/03/09 11:31:05: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 11:31:05: 256: main: active url: https://www.pieces.com/de/de/pc/schuhe/?sz=60&start=60
+INFO: 2019/03/09 11:31:06: 267: main: page 2: dropped 0 items (that were not products)

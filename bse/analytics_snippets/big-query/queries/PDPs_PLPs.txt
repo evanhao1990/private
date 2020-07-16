@@ -1,0 +1,28 @@
+-- Daily PDPs and PLPs 
+
+SELECT 
+date,
+count(IF(hits.eventInfo.eventAction ='Load' and hits.eventinfo.eventcategory = 'Ecommerce' and hits.product.productListName = 'main',
+            hits.product.productListPosition,null)) as PLPs,
+count(IF((hits.type = 'PAGE' and hits.product.productListName = 'packshot') or (hits.eventInfo.eventAction ='Select' and hits.eventinfo.eventcategory = 'Color' and hits.product.productListName = 'packshot'), 
+             hits.product.productListPosition, null)) as PDPs
+
+FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113663276.ga_sessions_], TIMESTAMP('2017-12-01'), TIMESTAMP('2017-12-31')))
+
+WHERE geoNetwork.country = "Germany"
+GROUP by 1
+order by 1 asc
+
+-- PDPs and PLPs per SKU
+
+SELECT 
+hits.product.productSKU,
+count(IF(hits.eventInfo.eventAction ='Load' and hits.eventinfo.eventcategory = 'Ecommerce' and hits.product.productListName = 'main',
+            hits.product.productListPosition,null)) as PLPs,
+count(IF((hits.type = 'PAGE' and hits.product.productListName = 'packshot') or (hits.eventInfo.eventAction ='Select' and hits.eventinfo.eventcategory = 'Color' and hits.product.productListName = 'packshot'), 
+             hits.product.productListPosition, null)) as PDPs
+
+FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113663276.ga_sessions_], TIMESTAMP('2017-12-01'), TIMESTAMP('2017-12-31')))
+
+WHERE geoNetwork.country = "Germany"
+group by 1

@@ -1,0 +1,1 @@
+This folder contains examples of queries previously used by the analytics team

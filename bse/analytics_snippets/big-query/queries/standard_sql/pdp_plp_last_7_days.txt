@@ -1,0 +1,18 @@
+SELECT 
+        date,
+        h.page.hostname,        
+        count(IF(h.eventInfo.eventAction ='Load' and h.eventinfo.eventcategory = 'Ecommerce' and p.productListName = 'main',
+            p.productListPosition,null)) as PLPs,
+        count(IF((h.type = 'PAGE' and p.productListName = 'packshot') or (h.eventInfo.eventAction ='Select' and h.eventinfo.eventcategory = 'Color' and p.productListName = 'packshot'), 
+             p.productListPosition, null)) as PDPs
+
+FROM `ga-360-bigquery-api.112804024.ga_sessions_*`,
+UNNEST (hits) as h,
+UNNEST(h.product) as p
+
+WHERE (_TABLE_SUFFIX BETWEEN FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 7 DAY))
+AND
+FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)))
+AND geoNetwork.country = "Germany"
+GROUP by 1,2
+order by 1 asc

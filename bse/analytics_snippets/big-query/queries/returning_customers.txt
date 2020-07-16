@@ -1,0 +1,34 @@
+/*
+Returning customers - using custom dimensions
+
+Currently not working fine
+*/
+
+SELECT
+case when master.nb_sessions = 1 then 1
+    when master.nb_sessions = 2 then 2
+    when master.nb_sessions = 3 then 3
+    when master.nb_sessions = 4 then 4
+    when master.nb_sessions = 5 then 5
+    when master.nb_sessions = 6 then 6
+    when master.nb_sessions = 7 then 7
+    when master.nb_sessions = 8 then 8
+    when master.nb_sessions = 9 then 9
+    ELSE 10 END as nb_sessions,
+    
+count(master.client_id) as nb_clients
+
+FROM (
+      SELECT 
+        customDimensions.value as client_id,
+        count(CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING))) as nb_sessions
+
+      FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:112804024.ga_sessions_], TIMESTAMP('2018-01-18'), TIMESTAMP('2018-01-25'))) 
+
+      WHERE geoNetwork.country = "Germany"
+       and customDimensions.index = 11 -- corresponds to client_id
+      GROUP by 1
+      ) master
+      
+GROUP BY 1
+order by 1 asc
