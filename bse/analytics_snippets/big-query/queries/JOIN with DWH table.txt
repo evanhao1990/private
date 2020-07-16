@@ -1,0 +1,31 @@
+/* 
+Example of JOIN with external (DWH) table
+
+Note: Tables used to JOIN in BQ must be 8 MB or less
+*/
+
+-- 0) First import dim_sku table to BigQuery
+
+-- 1) JOIN with dim_table previously imported to BQ
+
+SELECT
+sku.DimStyleOptionID as StyleOption,
+sum(master.PLPs) as PLPs,
+sum(master.PDPs) as PDPs
+FROM (
+      SELECT 
+      hits.product.productSKU as SKU,
+      count(IF(hits.eventInfo.eventAction ='Load' and hits.eventinfo.eventcategory = 'Ecommerce' and hits.product.productListName = 'main',
+            hits.product.productListPosition,null)) as PLPs,
+      count(IF((hits.type = 'PAGE' and hits.product.productListName = 'packshot') or (hits.eventInfo.eventAction ='Select' and hits.eventinfo.eventcategory = 'Color' and hits.product.productListName = 'packshot'), 
+             hits.product.productListPosition, null)) as PDPs
+      FROM ([ga-360-bigquery-api:113663276.ga_sessions_20171116])
+
+      WHERE geoNetwork.country = "Germany"
+      GROUP BY 1
+      ) master
+
+LEFT JOIN [ga-360-bigquery-api:ANA_tables.dim_sku1] sku 
+      ON master.SKU = sku.SKU 
+GROUP BY 1
+order by 1 asc

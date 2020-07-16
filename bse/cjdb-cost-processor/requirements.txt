@@ -1,0 +1,6 @@
+numpy==1.17.4
+pandas==0.25.3
+boto3==1.9.104
+colorlog==4.0.2
+sqlalchemy==1.2.16
+psycopg2-binary==2.8.3

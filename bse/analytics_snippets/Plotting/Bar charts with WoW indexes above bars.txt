@@ -1,0 +1,24 @@
+df_g = filter_df.groupby(by=['FiscalYearName'])
+
+fig = plt.figure(figsize=(12.4, 4.8))
+i = 0
+for name, group in df_g:
+    group = group.set_index('diff')
+    ax = fig.add_subplot(2, 2, i+1)
+    group['gsii'].plot(kind='bar', ax=ax, color='#5B5B5B', rot=0, alpha=0.85)
+    format_yaxis(ax)
+#     ax.set_title(name)
+    ax.set_xlabel('')
+    ax.grid(False)
+    # Holiday bar coloring
+    pos = group.index.get_loc(0)
+    ax.patches[pos].set_facecolor('#9B9B9B')
+        
+    # Set WoW index labels above bars
+    for j, v in zip(ax.patches, group['gsii_wow_index'].values):
+        ax.text(x=j.get_x()-0.1, y=j.get_height()*1.05, s=int(np.round(v*100)), fontsize=7, color='dimgrey', rotation=0)
+    
+    for item in ([ax.title, ax.xaxis.label, ax.yaxis.label] + ax.get_xticklabels() + ax.get_yticklabels()):
+        item.set_fontsize(8)
+    
+    i += 1

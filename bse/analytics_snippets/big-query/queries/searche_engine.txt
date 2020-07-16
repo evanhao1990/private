@@ -1,0 +1,49 @@
+-- Number of daily searches
+
+SELECT 
+	date,
+	count(IF(hits.type = 'EVENT' and hits.eventInfo.eventCategory = 'Search', hits.eventInfo.eventCategory, NULL)) as nb_searches
+
+FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113663276.ga_sessions_], TIMESTAMP('2017-12-01'), TIMESTAMP('2017-12-27')))
+
+WHERE geoNetwork.country = "Germany"
+  
+group by 1
+
+-- Most searched keywords
+
+SELECT 
+	hits.page.searchKeyword,
+	count(fullVisitorId) as nb_sessions
+
+FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113676549.ga_sessions_], TIMESTAMP('2017-12-15'), TIMESTAMP('2017-12-27')))
+
+WHERE geoNetwork.country = "Germany"
+ 
+group by 1
+order by 2 desc
+
+/* The goal of this query is to get the amount of sessions with search and conversion rate per device type */
+
+SELECT
+master.storefront,
+master.user_type, 
+case when master.nb_searches > 0 then 1 else 0 end as has_search_flag,
+case when master.nb_orders > 0 then 1 else 0 end as has_order_flag,
+count(master.session_code) as nb_sessions
+FROM (
+      SELECT 
+        hits.page.hostname as storefront,
+        CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+        (case when device.isMobile = false then 'desktop' else 'mobile' end) as user_type,
+        CASE WHEN totals.transactions > 0 then 1 else 0 end as nb_orders,
+        count(IF(hits.type = 'EVENT' and hits.eventInfo.eventCategory = 'Search', hits.eventInfo.eventCategory, NULL)) as nb_searches
+
+      FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113676549.ga_sessions_], TIMESTAMP('2018-10-19'), TIMESTAMP('2019-01-19'))),  # VM
+          (TABLE_DATE_RANGE([ga-360-bigquery-api:113663276.ga_sessions_], TIMESTAMP('2018-10-19'), TIMESTAMP('2019-01-19')))    # JJ
+
+      group by 1,2,3,4
+    ) master
+where master.storefront in ('www.veromoda.com', 'www.jackjones.com')
+group by 1,2,3,4
+order by 5 desc

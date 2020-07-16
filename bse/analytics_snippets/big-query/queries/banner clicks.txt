@@ -1,0 +1,69 @@
+-- Extra- check: clicks in banner generate multiple events --> with label & without (nulls)
+
+SELECT
+
+hits.type, hits.eventInfo.eventlabel, hits.promotion.promoId, hits.promotion.promoName, count(1) as nb_clicks
+
+FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113676549.ga_sessions_], TIMESTAMP('2018-08-22'), TIMESTAMP('2018-08-28')))
+
+WHERE geoNetwork.country = "Germany" and hits.eventInfo.eventCategory = 'Ecommerce' and hits.eventInfo.eventAction = 'PromotionClick' and hits.promotion.promoId in ('vm-w34-update1-main01-smart_widget','vm-w34-update1-spot01-smart_widget', 'vm-w34-update1-spot02-smart_widget') GROUP by 1,2,3,4 order by 5 desc
+
+
+-- banner/promotion views
+
+/*
+
+A promotion view, for bs.com, is:
+- hits.type: PAGE
+- hits.promotionActionInfo.promoIsView is true
+- hits.promotion.promoId is not null
+
+Note: we should be counting unique views per url as there's a current issue with views - data has duplicates.
+*/
+
+SELECT
+
+hits.promotion.promoId, 
+hits.promotion.promoName,
+count(1) as counts
+
+FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:112804024.ga_sessions_], TIMESTAMP('2018-08-22'), TIMESTAMP('2018-08-28')))
+
+WHERE geoNetwork.country = "Germany" 
+and hits.promotion.promoId is not null
+and hits.type = 'PAGE'
+and hits.promotionActionInfo.promoIsView is true
+
+GROUP by 1,2 order by 3 desc
+
+###########################################################################
+### Example banner query used to analyze VM quiz performance
+
+SELECT  
+fullVisitorId, 
+visitID,
+CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+
+(case when device.isMobile = false then 'desktop' else 'mobile' end) as user_type,
+device.browser,
+geoNetwork.country as country,
+totals.hits,
+date,
+time(integer(visitStartTime*1000000)) as startTime,
+channelGrouping,
+totals.timeOnSite as session_time_seconds,
+IFNULL(totals.transactions, 0) as nb_transactions,
+trafficSource.keyword,
+ifnull(totals.transactionRevenue / 1000000, 0) as gsii,
+
+GROUP_CONCAT(IF(hits.product.productListName = 'packshot', hits.product.productSKU, null)) as skus_with_pdp,
+GROUP_CONCAT(IF(hits.isExit	is true, hits.page.pagePath, null)) as exit_page,
+SUM(CASE WHEN hits.customDimensions.index = 4 and hits.customDimensions.value = 'homepage' then 1 else 0 END) as nb_homepage_views,
+MAX(IF(hits.eventInfo.eventlabel is not null and hits.promotion.promoId = 'vm-w34-update1-main01-smart_widget', 1,0)) as main_spot_click,
+MAX(IF(hits.eventInfo.eventlabel is not null and hits.promotion.promoId = 'vm-w34-update1-spot01-smart_widget', 1,0)) as editorial_page_click,
+MAX(IF(hits.eventInfo.eventlabel is not null and hits.promotion.promoId = 'vm-w34-update1-spot02-smart_widget', 1,0)) as vm_quiz_click
+
+FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113676549.ga_sessions_], TIMESTAMP('2018-08-22'), TIMESTAMP('2018-08-28'))) 
+where geoNetwork.country = "Germany"
+group by 1,2,3,4,5,6,7,8,9,10,11,12,13,14
+order by session_code asc

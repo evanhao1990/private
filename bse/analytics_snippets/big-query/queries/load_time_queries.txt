@@ -1,0 +1,155 @@
+-- Loading time analysis 
+
+SELECT
+case when master.avg_load_time < 1.5 then '1-1.5'
+    when master.avg_load_time between 1.5 and 2 then '1.5-2'
+    when master.avg_load_time between 2.0 and 2.5 then '2-2.5'
+    when master.avg_load_time between 2.5 and 3 then '2.5-3'
+    when master.avg_load_time between 3 and 3.5 then '3-3.5'
+    when master.avg_load_time between 3.5 and 4 then '3.5-4'
+    when master.avg_load_time between 4 and 4.5 then '4-4.5'
+    when master.avg_load_time between 4.5 and 5 then '4.5-5'
+    when master.avg_load_time between 5 and 5.5 then '5-5.5'
+    when master.avg_load_time between 5.5 and 6 then '5.5-6'
+    when master.avg_load_time between 6 and 6.5 then '6-6.5'
+    when master.avg_load_time between 6.5 and 7 then '6.5-7'
+    when master.avg_load_time between 7 and 7.5 then '7-7.5'
+    when master.avg_load_time between 7.5 and 8 then '7.5-8'
+    when master.avg_load_time between 8 and 8.5 then '8-8.5'
+    when master.avg_load_time between 8.5 and 9 then '8.5-9'
+    when master.avg_load_time between 9 and 9.5 then '9-9.5'
+    when master.avg_load_time between 9.5 and 10 then '9.5-10'
+    else '>11' end as loading_time_group,
+    
+count(master.session_code) as number_sessions,
+sum(master.pv)/count(master.session_code) as pv_per_sess,
+sum(master.PLPs)/count(master.session_code) as PLPs_per_session,
+sum(master.PDPs)/count(master.session_code) as PDPs_per_session,
+sum(master.tr)/count(master.session_code) as conversion
+
+FROM (
+      SELECT
+      date,
+      
+      CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+      
+      totals.hits as h,
+      totals.pageviews as pv,
+      IF(totals.transactions is not null,totals.transactions,0) as tr,
+      
+      # average loading time per event (site speed event) sum of loading time on events in session (seconds) / number of events with time in session
+      (sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', hits.eventInfo.eventValue, 0))/1000) / 
+        sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', 1, 0)) as avg_load_time,
+
+      count(IF(hits.eventInfo.eventAction ='Load' and hits.eventinfo.eventcategory = 'Ecommerce' and hits.product.productListName = 'main',
+            hits.product.productListPosition,null)) as PLPs,
+      count(IF((hits.type = 'PAGE' and hits.product.productListName = 'packshot') or (hits.eventInfo.eventAction ='Select' and hits.eventinfo.eventcategory = 'Color' and hits.product.productListName = 'packshot'), 
+             hits.product.productListPosition, null)) as PDPs
+
+      FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:112804024.ga_sessions_], TIMESTAMP('2018-02-03'), TIMESTAMP('2018-02-15')))
+
+      group by 1,2,3,4,5
+     ) master
+
+Where master.PLPs > 0
+  and master.avg_load_time between 1 and 10
+group by 1
+order by 1
+
+-- Loading time per session query
+
+SELECT
+	CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+
+	# there are cases where session_id and client_id are null
+	MAX(IF(customDimensions.index = 12, customDimensions.value, NULL)) WITHIN RECORD as session_id,
+	MAX(IF(customDimensions.index = 11, customDimensions.value, NULL)) WITHIN RECORD as client_id,
+
+	# average loading time per event (site speed event) sum of loading time on events in session (seconds) / number of events with time in session
+      (sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', hits.eventInfo.eventValue, 0))/1000) / 
+        sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', 1, 0)) as avg_load_time
+
+FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113663276.ga_sessions_], TIMESTAMP('2018-01-20'), TIMESTAMP('2018-01-28')))
+
+WHERE geoNetwork.country = "Germany"
+
+group by 1,2,3
+
+-- Sessions with and without loading times per day
+
+SELECT 
+date,
+case when master.load_time is null then 'no loading time' else 'has loading times' end as loading, 
+count(session_code) as nb_sessions,
+
+FROM (
+      SELECT
+      date,
+      CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+      
+	  # average loading time per event (site speed event) sum of loading time on events in session (seconds) / number of events with time in session
+      (sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', hits.eventInfo.eventValue, 0))/1000) / 
+        sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', 1, 0)) as load_time
+
+      FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113663276.ga_sessions_], TIMESTAMP('2017-12-10'), TIMESTAMP('2018-01-08')))
+
+      WHERE geoNetwork.country = "Germany"
+      and totals.hits - totals.pageviews > 0
+      group by 1,2
+      ) master
+
+group by 1,2
+order by 1,2 asc
+
+-- Site Speed per page type
+
+SELECT 
+page_type,
+avg(load_time) as avg_load_time, 
+count(session_code) as nb_sessions
+
+FROM (
+      SELECT
+      date,
+      CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+      hits.eventInfo.eventAction as page_type,
+      
+	  # average loading time per event (site speed event) sum of loading time on events in session (seconds) / number of events with time in session
+      (sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', hits.eventInfo.eventValue, 0))/1000) / 
+        sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', 1, 0)) as load_time
+
+      FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:113663276.ga_sessions_], TIMESTAMP('2018-02-01'), TIMESTAMP('2018-03-15')))
+
+      WHERE geoNetwork.country = "Germany"
+      and totals.hits - totals.pageviews > 0
+      group by 1,2,3
+      ) master
+where load_time between 0 and 10
+group by 1
+
+-- Average daily loading time
+
+SELECT
+master.date,
+AVG(master.avg_load_time) as avg_lt
+FROM (
+      SELECT
+      date,
+      CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session,
+      
+      totals.hits as h,
+      totals.pageviews as pv,
+      
+      (sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', hits.eventInfo.eventValue, 0))/1000) / 
+        sum(IF(hits.type = 'EVENT' AND hits.eventInfo.eventCategory ='Site speed', 1, 0)) as avg_load_time
+      
+      FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:112804024.ga_sessions_], TIMESTAMP('2018-02-03'), TIMESTAMP('2018-02-11')))
+
+      WHERE geoNetwork.country = 'Germany'
+      group by 1,2,3,4
+     ) master
+
+Where master.avg_load_time > 0
+
+group by 1
+order by 1

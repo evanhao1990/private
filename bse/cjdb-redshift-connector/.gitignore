@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints/
+.idea/
+**/__pycache__
+*.joblib
+*.csv
+run_local.sh

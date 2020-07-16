@@ -1,0 +1,59 @@
+May help to understand a few issues with BQ data: https://stackoverflow.com/questions/43880721/google-analytics-metrics-are-inflated-when-extracting-hit-level-data-using-bigqu
+
+
+-- Notes:
+# Im not including totals.hits and totals.pageviews as they dont mean anything in our current set up (eg pages can be tagged as event so they are not in pageviews, events may create multiple events - eg site speed event)
+# userID --> we disabled it, so it is still not being tracked - should be very powerful as google can track users even if using different devices
+# do we want visitNumber? we shall further investigate the accuracy of that metric
+
+########## Customer journey query ###############
+
+SELECT  
+# Session attributes - will be repeated for every hit in session
+fullVisitorId, 
+visitID,
+CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+
+(case when device.isMobile = false then 'desktop' else 'mobile' end) as user_type,
+device.browser,
+geoNetwork.country as country,
+totals.hits,
+date,
+time(msec_to_timestamp(visitStartTime*1000)) as startTime,
+channelGrouping,
+totals.timeOnSite as session_time_seconds,
+totals.timeOnScreen as time_on_screen_seconds,
+IFNULL(totals.transactions, 0) as nb_transactions,
+trafficSource.keyword,
+# trafficSource.campaignCode	
+
+# Hit level
+hits.hitNumber as hit_number, 
+hits.page.pagePath as page_path,
+hits.time/1000 as seconds_after_start,
+hits.type,
+hits.eventInfo.eventCategory,
+hits.eventInfo.eventAction,
+hits.eventInfo.eventLabel,
+hits.eventInfo.eventValue,
+
+hits.isEntrance,
+hits.isExit,
+
+# customDimensions.index, customDimensions.value which custom dimensions we have
+# hits.eCommerceAction.action_type	hits.eCommerceAction.step	hits.eCommerceAction.option --> investigate
+MAX(CASE WHEN hits.customDimensions.index = 4 then hits.customDimensions.value END) as page_type,
+GROUP_CONCAT(hits.product.productSKU) as list_skus,
+GROUP_CONCAT(hits.transaction.transactionId) as reference_orders,
+count(IF(hits.eventInfo.eventAction ='Load' and hits.eventinfo.eventcategory = 'Ecommerce' and hits.product.productListName = 'main',
+            hits.product.productListPosition,null)) as PLPs,
+count(IF((hits.type = 'PAGE' and hits.product.productListName = 'packshot') or (hits.eventInfo.eventAction ='Select' and hits.eventinfo.eventcategory = 'Color' and hits.product.productListName = 'packshot'), 
+             hits.product.productListPosition, null)) as PDPs
+
+FROM [ga-360-bigquery-api:112804024.ga_sessions_20180326] 
+
+where geoNetwork.country = "Germany"
+group by 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+order by 3, hit_number asc
+
+limit 1000

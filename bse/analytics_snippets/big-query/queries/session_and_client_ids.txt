@@ -1,0 +1,11 @@
+
+SELECT
+	CONCAT(CAST(visitId AS STRING), CAST(fullVisitorId AS STRING)) as session_code,
+
+	# there are cases where session_id and client_id is null
+	MAX(IF(customDimensions.index = 12, customDimensions.value, NULL)) WITHIN RECORD as session_id,
+	MAX(IF(customDimensions.index = 11, customDimensions.value, NULL)) WITHIN RECORD as client_id
+
+FROM (TABLE_DATE_RANGE([ga-360-bigquery-api:112804024.ga_sessions_], TIMESTAMP('2018-01-22'), TIMESTAMP('2018-01-25')))
+
+WHERE geoNetwork.country = "Germany"

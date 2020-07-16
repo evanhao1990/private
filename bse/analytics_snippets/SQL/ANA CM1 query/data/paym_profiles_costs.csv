@@ -1,0 +1,30 @@
+dim_paym_profile_id;payment_intrument;Paym_fixed_fee;Paym_var_fee;Refund_fixed_fee
+1;0;0;0;0
+2;Tradebyte Marketplaces;0;0;0
+3;Klarna Invoice;0;0,011;0
+4;Otto Invoice;0;0;0
+5;Visa;0,06;0,0021;0
+6;Visa Delta;0;0;0
+7;Visa Electron;0,06;0,0021;0
+8;Mastercard;0,06;0,0021;0
+9;Carte bleue;0;0;0
+10;Paypal;0,06;0,002;0
+11;Giropay;0;0;0
+12;iDEAL bank refund;0;0;0
+13;Klarna Account;0;0,0108;0
+14;Nordea Finland;0;0;0
+15;Nordea Sweden;0;0;0
+16;Opticard Giftcards;0;0;0
+17;American Express;0,06;0,0021;0
+18;Bank;0;0;0
+19;iDEAL;0,36;0;0,2
+20;SOFORT Online Bank Transfer;0,06;0,008;0,2
+21;MasterCard;0,06;0,0021;0
+22;SOFORT;0,06;0,008;0,2
+23;Maestro;0,06;0,0021;0
+24;Visa/Dankort;0,06;0,0021;0
+25;Bancontact/Mister Cash;0,06;0,02;0,2
+26;Bancontact/Mister Cash Mobile;0,06;0,02;0,2
+27;Afterpay;0,06;0,002;0
+28;RatePAY;0;0;0
+29;Carte Bancaire;0,17;0,038;0

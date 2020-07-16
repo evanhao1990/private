@@ -1,0 +1,13 @@
+<html>
+	<body>
+		<table>
+        {% for id_group in sids | batch(4) %}
+        <tr>
+            {% for id in id_group %}
+                <td><img src="{{ s3_url }}{{ id.id }}" width="180" height="240" align="middle"></td>
+            {% endfor %}
+        {% endfor %}
+        </tr>
+		</table>
+	</body>
+</html>

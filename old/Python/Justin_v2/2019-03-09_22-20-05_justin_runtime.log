@@ -1,0 +1,1194 @@
+INFO: 2019/03/09 10:20:05: 214: main: https://www.jackjones.com/de/de/home
+INFO: 2019/03/09 10:20:07: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-urbansport
+INFO: 2019/03/09 10:20:07: 256: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-urbansport?sz=60&start=0
+WARNING: 2019/03/09 10:20:08: 276: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-urbansport?sz=60&start=0 was empty
+INFO: 2019/03/09 10:20:08: 256: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-urbansport?sz=60&start=60
+WARNING: 2019/03/09 10:20:09: 276: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-urbansport?sz=60&start=60 was empty
+INFO: 2019/03/09 10:20:09: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/m/
+INFO: 2019/03/09 10:20:10: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=0
+INFO: 2019/03/09 10:20:12: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:12: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=60
+INFO: 2019/03/09 10:20:14: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:14: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=120
+INFO: 2019/03/09 10:20:16: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:16: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=180
+INFO: 2019/03/09 10:20:18: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:18: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=240
+INFO: 2019/03/09 10:20:20: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:20: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=300
+INFO: 2019/03/09 10:20:22: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:22: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=360
+INFO: 2019/03/09 10:20:24: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:24: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=420
+INFO: 2019/03/09 10:20:26: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:26: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=480
+INFO: 2019/03/09 10:20:28: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:28: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=540
+INFO: 2019/03/09 10:20:29: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:29: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=600
+INFO: 2019/03/09 10:20:31: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:31: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=660
+INFO: 2019/03/09 10:20:33: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:33: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=720
+INFO: 2019/03/09 10:20:35: 267: main: page 13: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:35: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=780
+INFO: 2019/03/09 10:20:37: 267: main: page 14: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:37: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/m/?sz=60&start=840
+INFO: 2019/03/09 10:20:38: 267: main: page 15: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:38: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/jeans-fit-guide/
+INFO: 2019/03/09 10:20:39: 244: main: active url: https://www.jackjones.com/de/de/jj/denim/jeans-fit-guide/ is not a PLP page
+INFO: 2019/03/09 10:20:39: 227: main: category url: https://www.jackjones.com/de/de/jj/schuhe/neuheiten/
+INFO: 2019/03/09 10:20:41: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/neuheiten/?sz=60&start=0
+INFO: 2019/03/09 10:20:42: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:42: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/
+INFO: 2019/03/09 10:20:43: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/?sz=60&start=0
+INFO: 2019/03/09 10:20:46: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:46: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/?sz=60&start=60
+INFO: 2019/03/09 10:20:48: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:48: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/?sz=60&start=120
+INFO: 2019/03/09 10:20:50: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:50: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/?sz=60&start=180
+INFO: 2019/03/09 10:20:51: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:51: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/?sz=60&start=240
+INFO: 2019/03/09 10:20:53: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:53: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/?sz=60&start=300
+INFO: 2019/03/09 10:20:55: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:55: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/?sz=60&start=360
+INFO: 2019/03/09 10:20:56: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:20:56: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-sale-popularproducts
+INFO: 2019/03/09 10:20:57: 256: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-sale-popularproducts?sz=60&start=0
+WARNING: 2019/03/09 10:20:58: 276: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-sale-popularproducts?sz=60&start=0 was empty
+INFO: 2019/03/09 10:20:58: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/party-outfits/
+INFO: 2019/03/09 10:20:59: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/party-outfits/?sz=60&start=0
+INFO: 2019/03/09 10:21:01: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:01: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/party-outfits/?sz=60&start=60
+INFO: 2019/03/09 10:21:03: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:03: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/jacken/
+INFO: 2019/03/09 10:21:04: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jacken/?sz=60&start=0
+INFO: 2019/03/09 10:21:06: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:06: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jacken/?sz=60&start=60
+INFO: 2019/03/09 10:21:08: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:08: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jacken/?sz=60&start=120
+INFO: 2019/03/09 10:21:09: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:09: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jacken/?sz=60&start=180
+INFO: 2019/03/09 10:21:11: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:11: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jacken/?sz=60&start=240
+INFO: 2019/03/09 10:21:12: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:12: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jacken/?sz=60&start=300
+INFO: 2019/03/09 10:21:14: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:14: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jacken/?sz=60&start=360
+INFO: 2019/03/09 10:21:15: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:15: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/basics/
+INFO: 2019/03/09 10:21:17: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/basics/?sz=60&start=0
+INFO: 2019/03/09 10:21:18: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:18: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/basics/?sz=60&start=60
+INFO: 2019/03/09 10:21:22: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:22: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/basics/?sz=60&start=120
+INFO: 2019/03/09 10:21:26: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:26: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/basics/?sz=60&start=180
+INFO: 2019/03/09 10:21:29: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:29: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/basics/?sz=60&start=240
+INFO: 2019/03/09 10:21:35: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:35: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/basics/?sz=60&start=300
+INFO: 2019/03/09 10:21:39: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:39: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/basics/?sz=60&start=360
+INFO: 2019/03/09 10:21:42: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:42: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/tapered/
+INFO: 2019/03/09 10:21:43: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/tapered/?sz=60&start=0
+INFO: 2019/03/09 10:21:44: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:44: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend14
+INFO: 2019/03/09 10:21:45: 256: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend14?sz=60&start=0
+WARNING: 2019/03/09 10:21:46: 276: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend14?sz=60&start=0 was empty
+INFO: 2019/03/09 10:21:46: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-accessories-goingout
+INFO: 2019/03/09 10:21:47: 256: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-accessories-goingout?sz=60&start=0
+WARNING: 2019/03/09 10:21:48: 276: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-accessories-goingout?sz=60&start=0 was empty
+INFO: 2019/03/09 10:21:48: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/strickwaren/
+INFO: 2019/03/09 10:21:48: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/strickwaren/?sz=60&start=0
+INFO: 2019/03/09 10:21:50: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:50: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/strickwaren/?sz=60&start=60
+INFO: 2019/03/09 10:21:51: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:51: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/strickwaren/?sz=60&start=120
+INFO: 2019/03/09 10:21:53: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:53: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/strickwaren/?sz=60&start=180
+INFO: 2019/03/09 10:21:55: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:55: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/strickwaren/?sz=60&start=240
+INFO: 2019/03/09 10:21:57: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:21:57: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/strickwaren/?sz=60&start=300
+WARNING: 2019/03/09 10:21:58: 276: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/strickwaren/?sz=60&start=300 was empty
+INFO: 2019/03/09 10:21:58: 227: main: category url: https://www.jackjones.com/de/de/jj/schuhe/sneaker/
+INFO: 2019/03/09 10:21:59: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/sneaker/?sz=60&start=0
+INFO: 2019/03/09 10:22:00: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:00: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/key-items/
+INFO: 2019/03/09 10:22:01: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/key-items/?sz=60&start=0
+INFO: 2019/03/09 10:22:04: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:04: 227: main: category url: https://www.jackjones.com/de/de/jj/kampagnen/urlaubsoutfits/
+INFO: 2019/03/09 10:22:05: 256: main: active url: https://www.jackjones.com/de/de/jj/kampagnen/urlaubsoutfits/?sz=60&start=0
+INFO: 2019/03/09 10:22:07: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:07: 256: main: active url: https://www.jackjones.com/de/de/jj/kampagnen/urlaubsoutfits/?sz=60&start=60
+INFO: 2019/03/09 10:22:09: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:09: 256: main: active url: https://www.jackjones.com/de/de/jj/kampagnen/urlaubsoutfits/?sz=60&start=120
+INFO: 2019/03/09 10:22:11: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:11: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/neuheiten/
+INFO: 2019/03/09 10:22:12: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/neuheiten/?sz=60&start=0
+INFO: 2019/03/09 10:22:14: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:14: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/neuheiten/?sz=60&start=60
+INFO: 2019/03/09 10:22:17: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:17: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/neuheiten/?sz=60&start=120
+INFO: 2019/03/09 10:22:18: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:18: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/neuheiten/?sz=60&start=180
+INFO: 2019/03/09 10:22:19: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:19: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/neuheiten/?sz=60&start=240
+INFO: 2019/03/09 10:22:21: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:21: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/neuheiten/?sz=60&start=300
+INFO: 2019/03/09 10:22:22: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:22: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/neuheiten/?sz=60&start=360
+INFO: 2019/03/09 10:22:23: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:23: 227: main: category url: https://www.jackjones.com/de/de/jj/inspiration/
+INFO: 2019/03/09 10:22:24: 244: main: active url: https://www.jackjones.com/de/de/jj/inspiration/ is not a PLP page
+INFO: 2019/03/09 10:22:24: 227: main: category url: https://www.jackjones.com/de/de/jj/inspiration/jack-and-jones-x-haas-f1-team/
+INFO: 2019/03/09 10:22:25: 244: main: active url: https://www.jackjones.com/de/de/jj/inspiration/jack-and-jones-x-haas-f1-team/ is not a PLP page
+INFO: 2019/03/09 10:22:25: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/sportbekleidung/
+INFO: 2019/03/09 10:22:26: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/sportbekleidung/?sz=60&start=0
+INFO: 2019/03/09 10:22:27: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:27: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/
+INFO: 2019/03/09 10:22:28: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/?sz=60&start=0
+INFO: 2019/03/09 10:22:30: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:30: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/?sz=60&start=60
+INFO: 2019/03/09 10:22:32: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:32: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/?sz=60&start=120
+INFO: 2019/03/09 10:22:34: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:34: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/?sz=60&start=180
+INFO: 2019/03/09 10:22:35: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:35: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/?sz=60&start=240
+INFO: 2019/03/09 10:22:37: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:37: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/?sz=60&start=300
+INFO: 2019/03/09 10:22:39: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:39: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/?sz=60&start=360
+INFO: 2019/03/09 10:22:40: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:40: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/?sz=60&start=420
+INFO: 2019/03/09 10:22:42: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:42: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/?sz=60&start=480
+INFO: 2019/03/09 10:22:44: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:44: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/?sz=60&start=540
+WARNING: 2019/03/09 10:22:45: 276: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sweatshirts/?sz=60&start=540 was empty
+INFO: 2019/03/09 10:22:45: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/guertel/
+INFO: 2019/03/09 10:22:46: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/guertel/?sz=60&start=0
+INFO: 2019/03/09 10:22:48: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:48: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/anzuege/
+INFO: 2019/03/09 10:22:49: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/anzuege/?sz=60&start=0
+INFO: 2019/03/09 10:22:50: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:50: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/anzuege/?sz=60&start=60
+INFO: 2019/03/09 10:22:52: 267: main: page 2: dropped 7 items (that were not products)
+INFO: 2019/03/09 10:22:52: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/anzuege/?sz=60&start=120
+WARNING: 2019/03/09 10:22:53: 276: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/anzuege/?sz=60&start=120 was empty
+INFO: 2019/03/09 10:22:53: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/glenn/
+INFO: 2019/03/09 10:22:54: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/glenn/?sz=60&start=0
+INFO: 2019/03/09 10:22:56: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:56: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/glenn/?sz=60&start=60
+INFO: 2019/03/09 10:22:57: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:22:57: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/xxl/
+INFO: 2019/03/09 10:22:59: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xxl/?sz=60&start=0
+INFO: 2019/03/09 10:23:01: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:01: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xxl/?sz=60&start=60
+INFO: 2019/03/09 10:23:03: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:03: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xxl/?sz=60&start=120
+INFO: 2019/03/09 10:23:05: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:05: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xxl/?sz=60&start=180
+INFO: 2019/03/09 10:23:07: 267: main: page 4: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:23:07: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/alle-anzeigen/
+INFO: 2019/03/09 10:23:08: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/alle-anzeigen/?sz=60&start=0
+INFO: 2019/03/09 10:23:10: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:10: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/alle-anzeigen/?sz=60&start=60
+INFO: 2019/03/09 10:23:11: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:11: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/alle-anzeigen/?sz=60&start=120
+INFO: 2019/03/09 10:23:13: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:13: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/alle-anzeigen/?sz=60&start=180
+INFO: 2019/03/09 10:23:15: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:15: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/handschuhe/
+INFO: 2019/03/09 10:23:16: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/handschuhe/?sz=60&start=0
+INFO: 2019/03/09 10:23:17: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:17: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/shorts/
+INFO: 2019/03/09 10:23:18: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/shorts/?sz=60&start=0
+INFO: 2019/03/09 10:23:19: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:19: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/accessoires/
+INFO: 2019/03/09 10:23:20: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/accessoires/?sz=60&start=0
+INFO: 2019/03/09 10:23:21: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:21: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend12
+INFO: 2019/03/09 10:23:22: 256: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend12?sz=60&start=0
+WARNING: 2019/03/09 10:23:22: 276: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend12?sz=60&start=0 was empty
+INFO: 2019/03/09 10:23:22: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/krawatten-and-fliegen/
+INFO: 2019/03/09 10:23:23: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/krawatten-and-fliegen/?sz=60&start=0
+INFO: 2019/03/09 10:23:25: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:25: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/caps/
+INFO: 2019/03/09 10:23:25: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/caps/?sz=60&start=0
+INFO: 2019/03/09 10:23:27: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:27: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/schuhe/
+INFO: 2019/03/09 10:23:27: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/schuhe/?sz=60&start=0
+INFO: 2019/03/09 10:23:29: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:29: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/slim/
+INFO: 2019/03/09 10:23:29: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/slim/?sz=60&start=0
+INFO: 2019/03/09 10:23:31: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:31: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/slim/?sz=60&start=60
+INFO: 2019/03/09 10:23:32: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:32: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-shoes-workwear
+INFO: 2019/03/09 10:23:33: 256: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-shoes-workwear?sz=60&start=0
+WARNING: 2019/03/09 10:23:33: 276: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-shoes-workwear?sz=60&start=0 was empty
+INFO: 2019/03/09 10:23:33: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/anzuege/
+INFO: 2019/03/09 10:23:34: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/anzuege/?sz=60&start=0
+INFO: 2019/03/09 10:23:35: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:35: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/
+INFO: 2019/03/09 10:23:36: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=0
+INFO: 2019/03/09 10:23:38: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:40: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=60
+INFO: 2019/03/09 10:23:42: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:42: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=120
+INFO: 2019/03/09 10:23:44: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:44: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=180
+INFO: 2019/03/09 10:23:46: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:46: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=240
+INFO: 2019/03/09 10:23:48: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:48: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=300
+INFO: 2019/03/09 10:23:52: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:52: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=360
+INFO: 2019/03/09 10:23:56: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:23:56: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=420
+INFO: 2019/03/09 10:24:01: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:01: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=480
+INFO: 2019/03/09 10:24:06: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:06: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=540
+INFO: 2019/03/09 10:24:10: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:10: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=600
+INFO: 2019/03/09 10:24:14: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:14: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=660
+INFO: 2019/03/09 10:24:19: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:19: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=720
+INFO: 2019/03/09 10:24:25: 267: main: page 13: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:25: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=780
+INFO: 2019/03/09 10:24:29: 267: main: page 14: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:29: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=840
+INFO: 2019/03/09 10:24:33: 267: main: page 15: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:33: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=900
+INFO: 2019/03/09 10:24:38: 267: main: page 16: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:38: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=960
+INFO: 2019/03/09 10:24:42: 267: main: page 17: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:42: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1020
+INFO: 2019/03/09 10:24:46: 267: main: page 18: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:46: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1080
+INFO: 2019/03/09 10:24:51: 267: main: page 19: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:51: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1140
+INFO: 2019/03/09 10:24:56: 267: main: page 20: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:56: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1200
+INFO: 2019/03/09 10:24:59: 267: main: page 21: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:24:59: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1260
+INFO: 2019/03/09 10:25:04: 267: main: page 22: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:04: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1320
+INFO: 2019/03/09 10:25:09: 267: main: page 23: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:09: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1380
+INFO: 2019/03/09 10:25:14: 267: main: page 24: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:14: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1440
+INFO: 2019/03/09 10:25:19: 267: main: page 25: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:19: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1500
+INFO: 2019/03/09 10:25:23: 267: main: page 26: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:23: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1560
+INFO: 2019/03/09 10:25:26: 267: main: page 27: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:26: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1620
+INFO: 2019/03/09 10:25:30: 267: main: page 28: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:30: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1680
+INFO: 2019/03/09 10:25:35: 267: main: page 29: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:35: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1740
+INFO: 2019/03/09 10:25:39: 267: main: page 30: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:39: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1800
+INFO: 2019/03/09 10:25:43: 267: main: page 31: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:43: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1860
+INFO: 2019/03/09 10:25:50: 267: main: page 32: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:50: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1920
+INFO: 2019/03/09 10:25:55: 267: main: page 33: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:55: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=1980
+INFO: 2019/03/09 10:25:57: 267: main: page 34: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:25:57: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2040
+INFO: 2019/03/09 10:26:03: 267: main: page 35: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:03: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2100
+INFO: 2019/03/09 10:26:08: 267: main: page 36: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:08: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2160
+INFO: 2019/03/09 10:26:13: 267: main: page 37: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:13: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2220
+INFO: 2019/03/09 10:26:20: 267: main: page 38: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:20: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2280
+INFO: 2019/03/09 10:26:22: 267: main: page 39: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:22: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2340
+INFO: 2019/03/09 10:26:24: 267: main: page 40: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:24: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2400
+INFO: 2019/03/09 10:26:28: 267: main: page 41: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:28: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2460
+INFO: 2019/03/09 10:26:30: 267: main: page 42: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:30: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2520
+INFO: 2019/03/09 10:26:32: 267: main: page 43: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:32: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2580
+INFO: 2019/03/09 10:26:36: 267: main: page 44: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:36: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2640
+INFO: 2019/03/09 10:26:41: 267: main: page 45: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:41: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2700
+INFO: 2019/03/09 10:26:46: 267: main: page 46: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:46: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2760
+INFO: 2019/03/09 10:26:49: 267: main: page 47: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:49: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2820
+INFO: 2019/03/09 10:26:51: 267: main: page 48: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:26:51: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2880
+INFO: 2019/03/09 10:26:57: 267: main: page 49: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:26:57: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=2940
+INFO: 2019/03/09 10:27:03: 267: main: page 50: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:03: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=3000
+INFO: 2019/03/09 10:27:08: 267: main: page 51: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:08: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=3060
+INFO: 2019/03/09 10:27:14: 267: main: page 52: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:14: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=3120
+INFO: 2019/03/09 10:27:19: 267: main: page 53: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:19: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=3180
+INFO: 2019/03/09 10:27:21: 267: main: page 54: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:21: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=3240
+INFO: 2019/03/09 10:27:24: 267: main: page 55: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:24: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=3300
+INFO: 2019/03/09 10:27:26: 267: main: page 56: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:26: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=3360
+INFO: 2019/03/09 10:27:32: 267: main: page 57: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:32: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=3420
+INFO: 2019/03/09 10:27:37: 267: main: page 58: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:37: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/?sz=60&start=3480
+INFO: 2019/03/09 10:27:40: 267: main: page 59: dropped 6 items (that were not products)
+INFO: 2019/03/09 10:27:40: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/sweatshirts/
+INFO: 2019/03/09 10:27:41: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/sweatshirts/?sz=60&start=0
+INFO: 2019/03/09 10:27:42: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:42: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/hemden/
+INFO: 2019/03/09 10:27:43: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/hemden/?sz=60&start=0
+INFO: 2019/03/09 10:27:44: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:44: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/hemden/?sz=60&start=60
+INFO: 2019/03/09 10:27:46: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:46: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/alles-anzeigen-2/
+INFO: 2019/03/09 10:27:47: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/alles-anzeigen-2/?sz=60&start=0
+INFO: 2019/03/09 10:27:49: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:49: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/alles-anzeigen-2/?sz=60&start=60
+INFO: 2019/03/09 10:27:51: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:51: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/alles-anzeigen-2/?sz=60&start=120
+INFO: 2019/03/09 10:27:53: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:53: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/alles-anzeigen-2/?sz=60&start=180
+INFO: 2019/03/09 10:27:54: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:54: 227: main: category url: https://www.jackjones.com/de/de/jj/schuhe/freizeitschuhe/
+INFO: 2019/03/09 10:27:55: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/freizeitschuhe/?sz=60&start=0
+INFO: 2019/03/09 10:27:57: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:57: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/freizeitschuhe/?sz=60&start=60
+INFO: 2019/03/09 10:27:58: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:27:58: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/hemden/
+INFO: 2019/03/09 10:27:59: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hemden/?sz=60&start=0
+INFO: 2019/03/09 10:28:01: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:01: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hemden/?sz=60&start=60
+INFO: 2019/03/09 10:28:02: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:02: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hemden/?sz=60&start=120
+INFO: 2019/03/09 10:28:04: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:04: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hemden/?sz=60&start=180
+INFO: 2019/03/09 10:28:05: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:05: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hemden/?sz=60&start=240
+INFO: 2019/03/09 10:28:07: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:07: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hemden/?sz=60&start=300
+INFO: 2019/03/09 10:28:09: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:09: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hemden/?sz=60&start=360
+WARNING: 2019/03/09 10:28:10: 276: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hemden/?sz=60&start=360 was empty
+INFO: 2019/03/09 10:28:10: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/t-shirts/
+INFO: 2019/03/09 10:28:11: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/t-shirts/?sz=60&start=0
+INFO: 2019/03/09 10:28:13: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:13: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/t-shirts/?sz=60&start=60
+INFO: 2019/03/09 10:28:14: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:14: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/t-shirts/?sz=60&start=120
+INFO: 2019/03/09 10:28:16: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:16: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/t-shirts/?sz=60&start=180
+INFO: 2019/03/09 10:28:18: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:18: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/t-shirts/?sz=60&start=240
+INFO: 2019/03/09 10:28:20: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:20: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/t-shirts/?sz=60&start=300
+INFO: 2019/03/09 10:28:23: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:23: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/t-shirts/?sz=60&start=360
+INFO: 2019/03/09 10:28:26: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:26: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/t-shirts/?sz=60&start=420
+INFO: 2019/03/09 10:28:28: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:28: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/t-shirts/?sz=60&start=480
+INFO: 2019/03/09 10:28:30: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:30: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/t-shirts/?sz=60&start=540
+INFO: 2019/03/09 10:28:31: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:31: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-accessories-workwear
+INFO: 2019/03/09 10:28:33: 256: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-accessories-workwear?sz=60&start=0
+WARNING: 2019/03/09 10:28:33: 276: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-accessories-workwear?sz=60&start=0 was empty
+INFO: 2019/03/09 10:28:33: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/comfort/
+INFO: 2019/03/09 10:28:34: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/comfort/?sz=60&start=0
+INFO: 2019/03/09 10:28:36: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:36: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/astralis-kollektion/
+INFO: 2019/03/09 10:28:36: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/astralis-kollektion/?sz=60&start=0
+INFO: 2019/03/09 10:28:38: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:38: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/slim-and-straight/
+INFO: 2019/03/09 10:28:38: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/slim-and-straight/?sz=60&start=0
+INFO: 2019/03/09 10:28:40: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:40: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/jeans/
+INFO: 2019/03/09 10:28:41: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jeans/?sz=60&start=0
+INFO: 2019/03/09 10:28:42: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:42: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jeans/?sz=60&start=60
+INFO: 2019/03/09 10:28:43: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:43: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jeans/?sz=60&start=120
+INFO: 2019/03/09 10:28:45: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:45: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jeans/?sz=60&start=180
+INFO: 2019/03/09 10:28:47: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:47: 227: main: category url: https://www.jackjones.com/de/de/jj/schuhe/stiefel/
+INFO: 2019/03/09 10:28:47: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/stiefel/?sz=60&start=0
+INFO: 2019/03/09 10:28:49: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:49: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/xs/
+INFO: 2019/03/09 10:28:51: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xs/?sz=60&start=0
+INFO: 2019/03/09 10:28:53: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:53: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xs/?sz=60&start=60
+INFO: 2019/03/09 10:28:54: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:54: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/rdd/
+INFO: 2019/03/09 10:28:55: 244: main: active url: https://www.jackjones.com/de/de/jj/denim/rdd/ is not a PLP page
+INFO: 2019/03/09 10:28:55: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend11
+INFO: 2019/03/09 10:28:56: 256: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend11?sz=60&start=0
+WARNING: 2019/03/09 10:28:57: 276: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend11?sz=60&start=0 was empty
+INFO: 2019/03/09 10:28:57: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/tapered-and-cropped/
+INFO: 2019/03/09 10:28:58: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/tapered-and-cropped/?sz=60&start=0
+INFO: 2019/03/09 10:28:59: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:28:59: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/
+INFO: 2019/03/09 10:29:01: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=0
+INFO: 2019/03/09 10:29:02: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:02: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=60
+INFO: 2019/03/09 10:29:03: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:03: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=120
+INFO: 2019/03/09 10:29:05: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:05: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=180
+INFO: 2019/03/09 10:29:06: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:06: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=240
+INFO: 2019/03/09 10:29:08: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:08: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=300
+INFO: 2019/03/09 10:29:10: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:10: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=360
+INFO: 2019/03/09 10:29:14: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:14: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=420
+INFO: 2019/03/09 10:29:19: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:19: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=480
+INFO: 2019/03/09 10:29:23: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:23: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=540
+INFO: 2019/03/09 10:29:28: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:28: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=600
+INFO: 2019/03/09 10:29:33: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:33: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=660
+INFO: 2019/03/09 10:29:38: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:38: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=720
+INFO: 2019/03/09 10:29:43: 267: main: page 13: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:43: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=780
+INFO: 2019/03/09 10:29:48: 267: main: page 14: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:48: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=840
+INFO: 2019/03/09 10:29:52: 267: main: page 15: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:52: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=900
+INFO: 2019/03/09 10:29:57: 267: main: page 16: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:57: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=960
+INFO: 2019/03/09 10:29:58: 267: main: page 17: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:29:58: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1020
+INFO: 2019/03/09 10:30:02: 267: main: page 18: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:02: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1080
+INFO: 2019/03/09 10:30:05: 267: main: page 19: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:05: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1140
+INFO: 2019/03/09 10:30:06: 267: main: page 20: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:06: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1200
+INFO: 2019/03/09 10:30:12: 267: main: page 21: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:12: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1260
+INFO: 2019/03/09 10:30:14: 267: main: page 22: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:14: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1320
+INFO: 2019/03/09 10:30:17: 267: main: page 23: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:17: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1380
+INFO: 2019/03/09 10:30:18: 267: main: page 24: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:18: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1440
+INFO: 2019/03/09 10:30:21: 267: main: page 25: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:21: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1500
+INFO: 2019/03/09 10:30:24: 267: main: page 26: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:24: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1560
+INFO: 2019/03/09 10:30:28: 267: main: page 27: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:28: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1620
+INFO: 2019/03/09 10:30:31: 267: main: page 28: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:31: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1680
+INFO: 2019/03/09 10:30:33: 267: main: page 29: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:33: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1740
+INFO: 2019/03/09 10:30:38: 267: main: page 30: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:38: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1800
+INFO: 2019/03/09 10:30:40: 267: main: page 31: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:40: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1860
+INFO: 2019/03/09 10:30:43: 267: main: page 32: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:43: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1920
+INFO: 2019/03/09 10:30:46: 267: main: page 33: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:46: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=1980
+INFO: 2019/03/09 10:30:51: 267: main: page 34: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:51: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2040
+INFO: 2019/03/09 10:30:57: 267: main: page 35: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:57: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2100
+INFO: 2019/03/09 10:30:58: 267: main: page 36: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:30:58: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2160
+INFO: 2019/03/09 10:31:05: 267: main: page 37: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:05: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2220
+INFO: 2019/03/09 10:31:07: 267: main: page 38: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:07: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2280
+INFO: 2019/03/09 10:31:12: 267: main: page 39: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:12: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2340
+INFO: 2019/03/09 10:31:17: 267: main: page 40: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:17: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2400
+INFO: 2019/03/09 10:31:19: 267: main: page 41: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:19: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2460
+INFO: 2019/03/09 10:31:24: 267: main: page 42: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:24: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2520
+INFO: 2019/03/09 10:31:30: 267: main: page 43: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:30: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2580
+INFO: 2019/03/09 10:31:33: 267: main: page 44: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:33: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2640
+INFO: 2019/03/09 10:31:34: 267: main: page 45: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:34: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2700
+INFO: 2019/03/09 10:31:37: 267: main: page 46: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:37: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2760
+INFO: 2019/03/09 10:31:42: 267: main: page 47: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:42: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2820
+INFO: 2019/03/09 10:31:48: 267: main: page 48: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:31:48: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2880
+INFO: 2019/03/09 10:31:50: 267: main: page 49: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:50: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=2940
+INFO: 2019/03/09 10:31:52: 267: main: page 50: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:52: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=3000
+INFO: 2019/03/09 10:31:57: 267: main: page 51: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:31:57: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=3060
+INFO: 2019/03/09 10:32:03: 267: main: page 52: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:03: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=3120
+INFO: 2019/03/09 10:32:06: 267: main: page 53: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:06: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=3180
+INFO: 2019/03/09 10:32:07: 267: main: page 54: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:07: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=3240
+INFO: 2019/03/09 10:32:12: 267: main: page 55: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:12: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=3300
+INFO: 2019/03/09 10:32:17: 267: main: page 56: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:17: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=3360
+INFO: 2019/03/09 10:32:19: 267: main: page 57: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:19: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=3420
+INFO: 2019/03/09 10:32:20: 267: main: page 58: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:20: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/alles-anzeigen/?sz=60&start=3480
+INFO: 2019/03/09 10:32:22: 267: main: page 59: dropped 6 items (that were not products)
+INFO: 2019/03/09 10:32:22: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/
+INFO: 2019/03/09 10:32:23: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=0
+INFO: 2019/03/09 10:32:24: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:24: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=60
+INFO: 2019/03/09 10:32:26: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:26: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=120
+INFO: 2019/03/09 10:32:28: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:28: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=180
+INFO: 2019/03/09 10:32:30: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:30: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=240
+INFO: 2019/03/09 10:32:32: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:32: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=300
+INFO: 2019/03/09 10:32:34: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:34: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=360
+INFO: 2019/03/09 10:32:36: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:36: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=420
+INFO: 2019/03/09 10:32:38: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:38: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=480
+INFO: 2019/03/09 10:32:39: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:39: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=540
+INFO: 2019/03/09 10:32:41: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:41: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=600
+INFO: 2019/03/09 10:32:44: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:44: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=660
+INFO: 2019/03/09 10:32:46: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:46: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=720
+INFO: 2019/03/09 10:32:48: 267: main: page 13: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:48: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=780
+INFO: 2019/03/09 10:32:50: 267: main: page 14: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:50: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=840
+INFO: 2019/03/09 10:32:53: 267: main: page 15: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:53: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=900
+INFO: 2019/03/09 10:32:55: 267: main: page 16: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:55: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=960
+INFO: 2019/03/09 10:32:57: 267: main: page 17: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:57: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=1020
+INFO: 2019/03/09 10:32:58: 267: main: page 18: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:32:58: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=1080
+INFO: 2019/03/09 10:33:01: 267: main: page 19: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:01: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=1140
+INFO: 2019/03/09 10:33:03: 267: main: page 20: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:03: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/?sz=60&start=1200
+INFO: 2019/03/09 10:33:04: 267: main: page 21: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:04: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/liam/
+INFO: 2019/03/09 10:33:05: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/liam/?sz=60&start=0
+INFO: 2019/03/09 10:33:07: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:07: 227: main: category url: https://www.jackjones.com/de/de/jj/inspiration/urban-sport/
+INFO: 2019/03/09 10:33:07: 244: main: active url: https://www.jackjones.com/de/de/jj/inspiration/urban-sport/ is not a PLP page
+INFO: 2019/03/09 10:33:07: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/jeanshemden/
+INFO: 2019/03/09 10:33:08: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/jeanshemden/?sz=60&start=0
+INFO: 2019/03/09 10:33:10: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:10: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/unterwaesche/
+INFO: 2019/03/09 10:33:11: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/unterwaesche/?sz=60&start=0
+INFO: 2019/03/09 10:33:12: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:12: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/unterwaesche/?sz=60&start=60
+INFO: 2019/03/09 10:33:13: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:13: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/fred/
+INFO: 2019/03/09 10:33:15: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/fred/?sz=60&start=0
+INFO: 2019/03/09 10:33:16: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:16: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/jeans/
+INFO: 2019/03/09 10:33:17: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/jeans/?sz=60&start=0
+INFO: 2019/03/09 10:33:18: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:18: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/s/
+INFO: 2019/03/09 10:33:19: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=0
+INFO: 2019/03/09 10:33:21: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:21: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=60
+INFO: 2019/03/09 10:33:23: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:23: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=120
+INFO: 2019/03/09 10:33:24: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:24: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=180
+INFO: 2019/03/09 10:33:26: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:26: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=240
+INFO: 2019/03/09 10:33:27: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:27: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=300
+INFO: 2019/03/09 10:33:29: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:29: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=360
+INFO: 2019/03/09 10:33:31: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:31: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=420
+INFO: 2019/03/09 10:33:32: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:32: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=480
+INFO: 2019/03/09 10:33:34: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:34: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=540
+INFO: 2019/03/09 10:33:36: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:36: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=600
+INFO: 2019/03/09 10:33:40: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:40: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=660
+INFO: 2019/03/09 10:33:41: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:41: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=720
+INFO: 2019/03/09 10:33:43: 267: main: page 13: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:43: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=780
+INFO: 2019/03/09 10:33:45: 267: main: page 14: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:45: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=840
+INFO: 2019/03/09 10:33:50: 267: main: page 15: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:50: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=900
+INFO: 2019/03/09 10:33:54: 267: main: page 16: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:54: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/s/?sz=60&start=960
+INFO: 2019/03/09 10:33:55: 267: main: page 17: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:55: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/alles-anzeigen-1/
+INFO: 2019/03/09 10:33:56: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/alles-anzeigen-1/?sz=60&start=0
+INFO: 2019/03/09 10:33:57: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:57: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/alles-anzeigen-1/?sz=60&start=60
+INFO: 2019/03/09 10:33:59: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:33:59: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/
+INFO: 2019/03/09 10:34:00: 244: main: active url: https://www.jackjones.com/de/de/jj/denim/ is not a PLP page
+INFO: 2019/03/09 10:34:00: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/made-in-italy/
+INFO: 2019/03/09 10:34:01: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/made-in-italy/?sz=60&start=0
+INFO: 2019/03/09 10:34:02: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:02: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/astralis-kollektion/
+INFO: 2019/03/09 10:34:03: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/astralis-kollektion/?sz=60&start=0
+INFO: 2019/03/09 10:34:04: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:04: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/schals/
+INFO: 2019/03/09 10:34:05: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/schals/?sz=60&start=0
+INFO: 2019/03/09 10:34:07: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:07: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/hosen/
+INFO: 2019/03/09 10:34:08: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/hosen/?sz=60&start=0
+INFO: 2019/03/09 10:34:09: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:09: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/loose/
+INFO: 2019/03/09 10:34:10: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/loose/?sz=60&start=0
+INFO: 2019/03/09 10:34:12: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:12: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/jeans/
+INFO: 2019/03/09 10:34:13: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/jeans/?sz=60&start=0
+INFO: 2019/03/09 10:34:15: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:15: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/strickwaren/
+INFO: 2019/03/09 10:34:16: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/strickwaren/?sz=60&start=0
+INFO: 2019/03/09 10:34:18: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:18: 227: main: category url: https://www.jackjones.com/de/de/jj/schuhe/stadtleben/
+INFO: 2019/03/09 10:34:19: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/stadtleben/?sz=60&start=0
+INFO: 2019/03/09 10:34:20: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:20: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/boxershorts/
+INFO: 2019/03/09 10:34:22: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/boxershorts/?sz=60&start=0
+INFO: 2019/03/09 10:34:23: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:23: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/muetzen/
+INFO: 2019/03/09 10:34:24: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/muetzen/?sz=60&start=0
+INFO: 2019/03/09 10:34:25: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:25: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/online-exclusive/
+INFO: 2019/03/09 10:34:26: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/online-exclusive/?sz=60&start=0
+INFO: 2019/03/09 10:34:27: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:28: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-tailoring
+INFO: 2019/03/09 10:34:28: 244: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-tailoring is not a PLP page
+INFO: 2019/03/09 10:34:28: 227: main: category url: https://www.jackjones.com/de/de/search?=*&lang=de/
+INFO: 2019/03/09 10:34:30: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=0
+INFO: 2019/03/09 10:34:31: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:31: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=60
+INFO: 2019/03/09 10:34:33: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:33: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=120
+INFO: 2019/03/09 10:34:35: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:35: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=180
+INFO: 2019/03/09 10:34:37: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:37: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=240
+INFO: 2019/03/09 10:34:38: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:38: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=300
+INFO: 2019/03/09 10:34:40: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:40: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=360
+INFO: 2019/03/09 10:34:42: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:42: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=420
+INFO: 2019/03/09 10:34:45: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:45: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=480
+INFO: 2019/03/09 10:34:47: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:47: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=540
+INFO: 2019/03/09 10:34:49: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:49: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=600
+INFO: 2019/03/09 10:34:52: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:52: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=660
+INFO: 2019/03/09 10:34:54: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:54: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=720
+INFO: 2019/03/09 10:34:57: 267: main: page 13: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:57: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=780
+INFO: 2019/03/09 10:34:59: 267: main: page 14: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:34:59: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=840
+INFO: 2019/03/09 10:35:02: 267: main: page 15: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:02: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=900
+INFO: 2019/03/09 10:35:05: 267: main: page 16: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:05: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=960
+INFO: 2019/03/09 10:35:12: 267: main: page 17: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:12: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1020
+INFO: 2019/03/09 10:35:15: 267: main: page 18: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:15: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1080
+INFO: 2019/03/09 10:35:17: 267: main: page 19: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:17: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1140
+INFO: 2019/03/09 10:35:21: 267: main: page 20: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:21: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1200
+INFO: 2019/03/09 10:35:23: 267: main: page 21: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:23: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1260
+INFO: 2019/03/09 10:35:26: 267: main: page 22: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:26: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1320
+INFO: 2019/03/09 10:35:29: 267: main: page 23: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:29: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1380
+INFO: 2019/03/09 10:35:32: 267: main: page 24: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:32: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1440
+INFO: 2019/03/09 10:35:35: 267: main: page 25: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:35: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1500
+INFO: 2019/03/09 10:35:39: 267: main: page 26: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:39: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1560
+INFO: 2019/03/09 10:35:43: 267: main: page 27: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:43: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1620
+INFO: 2019/03/09 10:35:46: 267: main: page 28: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:46: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1680
+INFO: 2019/03/09 10:35:49: 267: main: page 29: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:35:49: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1740
+INFO: 2019/03/09 10:35:53: 267: main: page 30: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:53: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1800
+INFO: 2019/03/09 10:35:56: 267: main: page 31: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:56: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1860
+INFO: 2019/03/09 10:35:59: 267: main: page 32: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:35:59: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1920
+INFO: 2019/03/09 10:36:02: 267: main: page 33: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:02: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=1980
+INFO: 2019/03/09 10:36:05: 267: main: page 34: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:05: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2040
+INFO: 2019/03/09 10:36:09: 267: main: page 35: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:09: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2100
+INFO: 2019/03/09 10:36:12: 267: main: page 36: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:36:12: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2160
+INFO: 2019/03/09 10:36:16: 267: main: page 37: dropped 2 items (that were not products)
+INFO: 2019/03/09 10:36:16: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2220
+INFO: 2019/03/09 10:36:19: 267: main: page 38: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:19: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2280
+INFO: 2019/03/09 10:36:22: 267: main: page 39: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:22: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2340
+INFO: 2019/03/09 10:36:26: 267: main: page 40: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:26: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2400
+INFO: 2019/03/09 10:36:29: 267: main: page 41: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:29: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2460
+INFO: 2019/03/09 10:36:32: 267: main: page 42: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:32: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2520
+INFO: 2019/03/09 10:36:36: 267: main: page 43: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:36: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2580
+INFO: 2019/03/09 10:36:40: 267: main: page 44: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:40: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2640
+INFO: 2019/03/09 10:36:44: 267: main: page 45: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:44: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2700
+INFO: 2019/03/09 10:36:47: 267: main: page 46: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:47: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2760
+INFO: 2019/03/09 10:36:49: 267: main: page 47: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:36:49: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2820
+INFO: 2019/03/09 10:36:52: 267: main: page 48: dropped 4 items (that were not products)
+INFO: 2019/03/09 10:36:52: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2880
+INFO: 2019/03/09 10:36:57: 267: main: page 49: dropped 2 items (that were not products)
+INFO: 2019/03/09 10:36:57: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=2940
+INFO: 2019/03/09 10:37:01: 267: main: page 50: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:37:01: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3000
+INFO: 2019/03/09 10:37:04: 267: main: page 51: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:37:04: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3060
+INFO: 2019/03/09 10:37:08: 267: main: page 52: dropped 2 items (that were not products)
+INFO: 2019/03/09 10:37:08: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3120
+INFO: 2019/03/09 10:37:12: 267: main: page 53: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:37:12: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3180
+INFO: 2019/03/09 10:37:17: 267: main: page 54: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:37:17: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3240
+INFO: 2019/03/09 10:37:21: 267: main: page 55: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:37:21: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3300
+INFO: 2019/03/09 10:37:26: 267: main: page 56: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:37:26: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3360
+INFO: 2019/03/09 10:37:29: 267: main: page 57: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:37:29: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3420
+INFO: 2019/03/09 10:37:34: 267: main: page 58: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:37:34: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3480
+INFO: 2019/03/09 10:37:38: 267: main: page 59: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:37:38: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3540
+INFO: 2019/03/09 10:37:42: 267: main: page 60: dropped 4 items (that were not products)
+INFO: 2019/03/09 10:37:42: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3600
+INFO: 2019/03/09 10:37:46: 267: main: page 61: dropped 6 items (that were not products)
+INFO: 2019/03/09 10:37:46: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3660
+INFO: 2019/03/09 10:37:50: 267: main: page 62: dropped 4 items (that were not products)
+INFO: 2019/03/09 10:37:50: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3720
+INFO: 2019/03/09 10:37:55: 267: main: page 63: dropped 2 items (that were not products)
+INFO: 2019/03/09 10:37:55: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3780
+INFO: 2019/03/09 10:38:00: 267: main: page 64: dropped 4 items (that were not products)
+INFO: 2019/03/09 10:38:00: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3840
+INFO: 2019/03/09 10:38:04: 267: main: page 65: dropped 3 items (that were not products)
+INFO: 2019/03/09 10:38:04: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3900
+INFO: 2019/03/09 10:38:08: 267: main: page 66: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:08: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=3960
+INFO: 2019/03/09 10:38:12: 267: main: page 67: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:38:12: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=4020
+INFO: 2019/03/09 10:38:16: 267: main: page 68: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:16: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=4080
+INFO: 2019/03/09 10:38:21: 267: main: page 69: dropped 1 items (that were not products)
+INFO: 2019/03/09 10:38:21: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=4140
+INFO: 2019/03/09 10:38:24: 267: main: page 70: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:24: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=4200
+INFO: 2019/03/09 10:38:27: 267: main: page 71: dropped 2 items (that were not products)
+INFO: 2019/03/09 10:38:27: 256: main: active url: https://www.jackjones.com/de/de/search?=*&lang=de/?sz=60&start=4260
+INFO: 2019/03/09 10:38:28: 267: main: page 72: dropped 8 items (that were not products)
+INFO: 2019/03/09 10:38:28: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/skinny/
+INFO: 2019/03/09 10:38:29: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/skinny/?sz=60&start=0
+INFO: 2019/03/09 10:38:30: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:30: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/sonnenbrillen/
+INFO: 2019/03/09 10:38:31: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/sonnenbrillen/?sz=60&start=0
+INFO: 2019/03/09 10:38:32: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:32: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/junior/
+INFO: 2019/03/09 10:38:33: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/junior/?sz=60&start=0
+INFO: 2019/03/09 10:38:35: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:35: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/junior/?sz=60&start=60
+INFO: 2019/03/09 10:38:37: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:37: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/junior/?sz=60&start=120
+INFO: 2019/03/09 10:38:38: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:38: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/junior/?sz=60&start=180
+INFO: 2019/03/09 10:38:40: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:40: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/junior/?sz=60&start=240
+WARNING: 2019/03/09 10:38:41: 276: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/junior/?sz=60&start=240 was empty
+INFO: 2019/03/09 10:38:41: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/strickwaren/
+INFO: 2019/03/09 10:38:42: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/strickwaren/?sz=60&start=0
+INFO: 2019/03/09 10:38:44: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:44: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/strickwaren/?sz=60&start=60
+INFO: 2019/03/09 10:38:46: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:46: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-accessories-holiday
+INFO: 2019/03/09 10:38:47: 256: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-accessories-holiday?sz=60&start=0
+WARNING: 2019/03/09 10:38:48: 276: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-occasion-accessories-holiday?sz=60&start=0 was empty
+INFO: 2019/03/09 10:38:48: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/stylist-choice/
+INFO: 2019/03/09 10:38:49: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/stylist-choice/?sz=60&start=0
+INFO: 2019/03/09 10:38:51: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:51: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/jacken/
+INFO: 2019/03/09 10:38:52: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/jacken/?sz=60&start=0
+INFO: 2019/03/09 10:38:53: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:53: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/jacken/?sz=60&start=60
+INFO: 2019/03/09 10:38:55: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:55: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/geschenkgutschein/
+INFO: 2019/03/09 10:38:55: 244: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/geschenkgutschein/ is not a PLP page
+INFO: 2019/03/09 10:38:55: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/super-stretch/
+INFO: 2019/03/09 10:38:57: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/super-stretch/?sz=60&start=0
+INFO: 2019/03/09 10:38:58: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:38:58: 227: main: category url: https://www.jackjones.com/de/de/jj/schuhe/schnuerschuhe/
+INFO: 2019/03/09 10:38:59: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/schnuerschuhe/?sz=60&start=0
+INFO: 2019/03/09 10:39:01: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:01: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/mike/
+INFO: 2019/03/09 10:39:02: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/mike/?sz=60&start=0
+INFO: 2019/03/09 10:39:03: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:03: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/sweatshirts/
+INFO: 2019/03/09 10:39:04: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/sweatshirts/?sz=60&start=0
+INFO: 2019/03/09 10:39:06: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:06: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/sweatshirts/?sz=60&start=60
+INFO: 2019/03/09 10:39:08: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:08: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/sweatshirts/?sz=60&start=120
+INFO: 2019/03/09 10:39:09: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:09: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/
+INFO: 2019/03/09 10:39:10: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=0
+INFO: 2019/03/09 10:39:11: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:11: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=60
+INFO: 2019/03/09 10:39:13: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:13: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=120
+INFO: 2019/03/09 10:39:15: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:15: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=180
+INFO: 2019/03/09 10:39:17: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:17: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=240
+INFO: 2019/03/09 10:39:18: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:18: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=300
+INFO: 2019/03/09 10:39:20: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:20: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=360
+INFO: 2019/03/09 10:39:22: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:22: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=420
+INFO: 2019/03/09 10:39:24: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:24: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=480
+INFO: 2019/03/09 10:39:26: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:26: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=540
+INFO: 2019/03/09 10:39:27: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:27: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=600
+INFO: 2019/03/09 10:39:29: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:29: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=660
+INFO: 2019/03/09 10:39:31: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:31: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=720
+INFO: 2019/03/09 10:39:33: 267: main: page 13: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:33: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=780
+INFO: 2019/03/09 10:39:34: 267: main: page 14: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:34: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=840
+INFO: 2019/03/09 10:39:36: 267: main: page 15: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:36: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=900
+INFO: 2019/03/09 10:39:39: 267: main: page 16: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:39: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=960
+INFO: 2019/03/09 10:39:40: 267: main: page 17: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:40: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=1020
+INFO: 2019/03/09 10:39:42: 267: main: page 18: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:42: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=1080
+INFO: 2019/03/09 10:39:44: 267: main: page 19: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:44: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=1140
+INFO: 2019/03/09 10:39:45: 267: main: page 20: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:45: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=1200
+INFO: 2019/03/09 10:39:47: 267: main: page 21: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:47: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=1260
+WARNING: 2019/03/09 10:39:48: 276: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=1260 was empty
+INFO: 2019/03/09 10:39:48: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=1320
+WARNING: 2019/03/09 10:39:48: 276: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/t-shirts/?sz=60&start=1320 was empty
+INFO: 2019/03/09 10:39:48: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/xl/
+INFO: 2019/03/09 10:39:50: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=0
+INFO: 2019/03/09 10:39:52: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:52: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=60
+INFO: 2019/03/09 10:39:53: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:53: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=120
+INFO: 2019/03/09 10:39:55: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:55: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=180
+INFO: 2019/03/09 10:39:57: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:39:57: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=240
+INFO: 2019/03/09 10:40:00: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:00: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=300
+INFO: 2019/03/09 10:40:02: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:02: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=360
+INFO: 2019/03/09 10:40:07: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:07: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=420
+INFO: 2019/03/09 10:40:11: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:11: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=480
+INFO: 2019/03/09 10:40:15: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:15: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=540
+INFO: 2019/03/09 10:40:20: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:20: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=600
+INFO: 2019/03/09 10:40:25: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:25: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/xl/?sz=60&start=660
+INFO: 2019/03/09 10:40:29: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:29: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/socken/
+INFO: 2019/03/09 10:40:30: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/socken/?sz=60&start=0
+INFO: 2019/03/09 10:40:31: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:31: 227: main: category url: https://www.jackjones.com/de/de/jj/inspiration/astralis-x-jack-and-jones/
+INFO: 2019/03/09 10:40:32: 244: main: active url: https://www.jackjones.com/de/de/jj/inspiration/astralis-x-jack-and-jones/ is not a PLP page
+INFO: 2019/03/09 10:40:32: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend13
+INFO: 2019/03/09 10:40:33: 256: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend13?sz=60&start=0
+WARNING: 2019/03/09 10:40:33: 276: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-newarrivals-trend13?sz=60&start=0 was empty
+INFO: 2019/03/09 10:40:33: 227: main: category url: https://www.jackjones.com/de/de/jj/kampagnen/buero-outfits/
+INFO: 2019/03/09 10:40:35: 256: main: active url: https://www.jackjones.com/de/de/jj/kampagnen/buero-outfits/?sz=60&start=0
+INFO: 2019/03/09 10:40:37: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:37: 256: main: active url: https://www.jackjones.com/de/de/jj/kampagnen/buero-outfits/?sz=60&start=60
+INFO: 2019/03/09 10:40:39: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:39: 256: main: active url: https://www.jackjones.com/de/de/jj/kampagnen/buero-outfits/?sz=60&start=120
+INFO: 2019/03/09 10:40:40: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:40: 256: main: active url: https://www.jackjones.com/de/de/jj/kampagnen/buero-outfits/?sz=60&start=180
+INFO: 2019/03/09 10:40:42: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:42: 227: main: category url: https://www.jackjones.com/de/de/jj/schuhe/
+INFO: 2019/03/09 10:40:43: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/?sz=60&start=0
+INFO: 2019/03/09 10:40:45: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:45: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/?sz=60&start=60
+INFO: 2019/03/09 10:40:47: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:47: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/?sz=60&start=120
+INFO: 2019/03/09 10:40:47: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:48: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/jeansjacken/
+INFO: 2019/03/09 10:40:49: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/jeansjacken/?sz=60&start=0
+INFO: 2019/03/09 10:40:51: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:51: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/indigo-knit/
+INFO: 2019/03/09 10:40:52: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/indigo-knit/?sz=60&start=0
+INFO: 2019/03/09 10:40:54: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:54: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/taschen/
+INFO: 2019/03/09 10:40:55: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/taschen/?sz=60&start=0
+INFO: 2019/03/09 10:40:56: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:56: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/alle-anzeigen/
+INFO: 2019/03/09 10:40:57: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/alle-anzeigen/?sz=60&start=0
+INFO: 2019/03/09 10:40:58: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:58: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/alle-anzeigen/?sz=60&start=60
+INFO: 2019/03/09 10:40:59: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:40:59: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/alle-anzeigen/?sz=60&start=120
+INFO: 2019/03/09 10:41:02: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:02: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/alle-anzeigen/?sz=60&start=180
+INFO: 2019/03/09 10:41:03: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:03: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/alle-anzeigen/?sz=60&start=240
+INFO: 2019/03/09 10:41:04: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:04: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/alle-anzeigen/?sz=60&start=300
+INFO: 2019/03/09 10:41:05: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:05: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/alle-anzeigen/?sz=60&start=360
+INFO: 2019/03/09 10:41:07: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:07: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/l/
+INFO: 2019/03/09 10:41:07: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=0
+INFO: 2019/03/09 10:41:09: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:09: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=60
+INFO: 2019/03/09 10:41:11: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:11: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=120
+INFO: 2019/03/09 10:41:12: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:12: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=180
+INFO: 2019/03/09 10:41:14: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:14: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=240
+INFO: 2019/03/09 10:41:16: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:16: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=300
+INFO: 2019/03/09 10:41:17: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:17: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=360
+INFO: 2019/03/09 10:41:19: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:19: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=420
+INFO: 2019/03/09 10:41:20: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:20: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=480
+INFO: 2019/03/09 10:41:22: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:22: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=540
+INFO: 2019/03/09 10:41:24: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:24: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=600
+INFO: 2019/03/09 10:41:26: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:26: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=660
+INFO: 2019/03/09 10:41:28: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:28: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/l/?sz=60&start=720
+INFO: 2019/03/09 10:41:29: 267: main: page 13: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:29: 227: main: category url: https://www.jackjones.com/de/de/jj/schuhe/ausgehen/
+INFO: 2019/03/09 10:41:30: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/ausgehen/?sz=60&start=0
+INFO: 2019/03/09 10:41:31: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:31: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/jacken/
+INFO: 2019/03/09 10:41:32: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/jacken/?sz=60&start=0
+INFO: 2019/03/09 10:41:34: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:34: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/jacken/?sz=60&start=60
+INFO: 2019/03/09 10:41:36: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:36: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/jacken/?sz=60&start=120
+INFO: 2019/03/09 10:41:37: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:37: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/hosen/
+INFO: 2019/03/09 10:41:38: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/hosen/?sz=60&start=0
+INFO: 2019/03/09 10:41:40: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:40: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/junior/
+INFO: 2019/03/09 10:41:41: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/junior/?sz=60&start=0
+INFO: 2019/03/09 10:41:43: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:43: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/shorts/
+INFO: 2019/03/09 10:41:43: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/shorts/?sz=60&start=0
+INFO: 2019/03/09 10:41:45: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:45: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/shorts/?sz=60&start=60
+INFO: 2019/03/09 10:41:46: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:46: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/
+INFO: 2019/03/09 10:41:47: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=0
+INFO: 2019/03/09 10:41:48: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:48: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=60
+INFO: 2019/03/09 10:41:50: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:50: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=120
+INFO: 2019/03/09 10:41:52: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:52: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=180
+INFO: 2019/03/09 10:41:54: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:54: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=240
+INFO: 2019/03/09 10:41:55: 267: main: page 5: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:55: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=300
+INFO: 2019/03/09 10:41:57: 267: main: page 6: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:57: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=360
+INFO: 2019/03/09 10:41:58: 267: main: page 7: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:41:58: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=420
+INFO: 2019/03/09 10:42:00: 267: main: page 8: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:00: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=480
+INFO: 2019/03/09 10:42:01: 267: main: page 9: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:01: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=540
+INFO: 2019/03/09 10:42:02: 267: main: page 10: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:02: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=600
+INFO: 2019/03/09 10:42:04: 267: main: page 11: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:04: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=660
+INFO: 2019/03/09 10:42:06: 267: main: page 12: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:06: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=720
+INFO: 2019/03/09 10:42:09: 267: main: page 13: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:09: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=780
+INFO: 2019/03/09 10:42:10: 267: main: page 14: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:10: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=840
+INFO: 2019/03/09 10:42:12: 267: main: page 15: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:12: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=900
+INFO: 2019/03/09 10:42:13: 267: main: page 16: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:13: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=960
+INFO: 2019/03/09 10:42:15: 267: main: page 17: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:15: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=1020
+INFO: 2019/03/09 10:42:17: 267: main: page 18: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:17: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=1080
+INFO: 2019/03/09 10:42:18: 267: main: page 19: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:18: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=1140
+INFO: 2019/03/09 10:42:20: 267: main: page 20: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:20: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/alles-anzeigen/?sz=60&start=1200
+INFO: 2019/03/09 10:42:21: 267: main: page 21: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:21: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/grosse-groessen/
+INFO: 2019/03/09 10:42:22: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/grosse-groessen/?sz=60&start=0
+INFO: 2019/03/09 10:42:24: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:24: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/grosse-groessen/?sz=60&start=60
+INFO: 2019/03/09 10:42:26: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:26: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/grosse-groessen/?sz=60&start=120
+INFO: 2019/03/09 10:42:27: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:27: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/unterhemden/
+INFO: 2019/03/09 10:42:29: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/unterhemden/?sz=60&start=0
+INFO: 2019/03/09 10:42:30: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:30: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/sportbekleidung/
+INFO: 2019/03/09 10:42:30: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/sportbekleidung/?sz=60&start=0
+INFO: 2019/03/09 10:42:32: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:32: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/neuheiten/
+INFO: 2019/03/09 10:42:33: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/neuheiten/?sz=60&start=0
+INFO: 2019/03/09 10:42:35: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:35: 227: main: category url: https://www.jackjones.com/de/de/jj/neuheiten/t-shirts/
+INFO: 2019/03/09 10:42:36: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/t-shirts/?sz=60&start=0
+INFO: 2019/03/09 10:42:38: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:38: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/t-shirts/?sz=60&start=60
+INFO: 2019/03/09 10:42:39: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:39: 256: main: active url: https://www.jackjones.com/de/de/jj/neuheiten/t-shirts/?sz=60&start=120
+INFO: 2019/03/09 10:42:40: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:40: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/grosse-groessen/
+INFO: 2019/03/09 10:42:41: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/grosse-groessen/?sz=60&start=0
+INFO: 2019/03/09 10:42:43: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:43: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/jack-and-jones-merch/
+INFO: 2019/03/09 10:42:44: 244: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/jack-and-jones-merch/ is not a PLP page
+INFO: 2019/03/09 10:42:44: 227: main: category url: https://www.jackjones.com/de/de/jj/inspiration/customer-club/
+INFO: 2019/03/09 10:42:45: 244: main: active url: https://www.jackjones.com/de/de/jj/inspiration/customer-club/ is not a PLP page
+INFO: 2019/03/09 10:42:45: 227: main: category url: https://www.jackjones.com/de/de/jj/sale/hemden/
+INFO: 2019/03/09 10:42:46: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/hemden/?sz=60&start=0
+INFO: 2019/03/09 10:42:47: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:47: 256: main: active url: https://www.jackjones.com/de/de/jj/sale/hemden/?sz=60&start=60
+INFO: 2019/03/09 10:42:49: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:49: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/jeansshorts/
+INFO: 2019/03/09 10:42:50: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/jeansshorts/?sz=60&start=0
+INFO: 2019/03/09 10:42:51: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:51: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/lid/
+INFO: 2019/03/09 10:42:52: 244: main: active url: https://www.jackjones.com/de/de/jj/denim/lid/ is not a PLP page
+INFO: 2019/03/09 10:42:52: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/topseller/
+INFO: 2019/03/09 10:42:53: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/topseller/?sz=60&start=0
+INFO: 2019/03/09 10:42:55: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:55: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/topseller/?sz=60&start=60
+INFO: 2019/03/09 10:42:58: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:42:58: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/topseller/?sz=60&start=120
+INFO: 2019/03/09 10:43:00: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:00: 227: main: category url: https://www.jackjones.com/de/de/jj/accessoires/
+INFO: 2019/03/09 10:43:01: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/?sz=60&start=0
+INFO: 2019/03/09 10:43:02: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:02: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/?sz=60&start=60
+INFO: 2019/03/09 10:43:04: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:04: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/?sz=60&start=120
+INFO: 2019/03/09 10:43:05: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:05: 256: main: active url: https://www.jackjones.com/de/de/jj/accessoires/?sz=60&start=180
+INFO: 2019/03/09 10:43:06: 267: main: page 4: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:06: 227: main: category url: https://www.jackjones.com/de/de/search?cgid=jj-highlights-instagram
+INFO: 2019/03/09 10:43:07: 244: main: active url: https://www.jackjones.com/de/de/search?cgid=jj-highlights-instagram is not a PLP page
+INFO: 2019/03/09 10:43:07: 227: main: category url: https://www.jackjones.com/de/de/jj/denim/regular/
+INFO: 2019/03/09 10:43:07: 256: main: active url: https://www.jackjones.com/de/de/jj/denim/regular/?sz=60&start=0
+INFO: 2019/03/09 10:43:09: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:09: 227: main: category url: https://www.jackjones.com/de/de/jj/schuhe/alle-anzeigen/
+INFO: 2019/03/09 10:43:10: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/alle-anzeigen/?sz=60&start=0
+INFO: 2019/03/09 10:43:12: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:12: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/alle-anzeigen/?sz=60&start=60
+INFO: 2019/03/09 10:43:13: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:13: 256: main: active url: https://www.jackjones.com/de/de/jj/schuhe/alle-anzeigen/?sz=60&start=120
+INFO: 2019/03/09 10:43:14: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:15: 227: main: category url: https://www.jackjones.com/de/de/jj/bekleidung/hosen/
+INFO: 2019/03/09 10:43:15: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hosen/?sz=60&start=0
+INFO: 2019/03/09 10:43:17: 267: main: page 1: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:17: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hosen/?sz=60&start=60
+INFO: 2019/03/09 10:43:19: 267: main: page 2: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:19: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hosen/?sz=60&start=120
+INFO: 2019/03/09 10:43:20: 267: main: page 3: dropped 0 items (that were not products)
+INFO: 2019/03/09 10:43:20: 256: main: active url: https://www.jackjones.com/de/de/jj/bekleidung/hosen/?sz=60&start=180
+INFO: 2019/03/09 10:43:21: 267: main: page 4: dropped 0 items (that were not products)

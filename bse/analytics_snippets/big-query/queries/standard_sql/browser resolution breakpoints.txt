@@ -1,0 +1,19 @@
+-- The UX team designs according to 4 browser sizes and thus the device size or category only partially overlaps with this definition
+-- E.G. the wide menu is only seen by breakpoint 4 which should mostly regard Desktop users, but could also include tablet sessions
+-- the breakpoints regard the BROWSER WIDTH as follows:
+	-- Breakpoint 1: 0-659 megapixels, also called Mobile
+	-- Breakpoint 2: 660-869, also called Small Tablet (this is the least relevant breakpoint)
+	-- Breakpoint 3: 870-1279, Large Tablet
+	-- Breakpoint 4: 1280+, Desktop
+SELECT  CONCAT(CAST(visitId AS STRING), CAST(fullvisitorID AS STRING)) AS session_code,  
+		device.browserSize,
+        CASE WHEN device.browserSize != '(not set)' AND CAST((SPLIT(device.browserSize,'x'))[SAFE_OFFSET(0)] AS INT64) >10 AND CAST((SPLIT(device.browserSize,'x'))[SAFE_OFFSET(0)] AS INT64) <660 THEN 'Breakpoint 1'
+             WHEN device.browserSize != '(not set)' AND CAST((SPLIT(device.browserSize,'x'))[SAFE_OFFSET(0)] AS INT64) >=660 AND CAST((SPLIT(device.browserSize,'x'))[SAFE_OFFSET(0)] AS INT64) <870 THEN 'Breakpoint 2'
+             WHEN device.browserSize != '(not set)' AND CAST((SPLIT(device.browserSize,'x'))[SAFE_OFFSET(0)] AS INT64) >=870 AND CAST((SPLIT(device.browserSize,'x'))[SAFE_OFFSET(0)] AS INT64) <1279 THEN 'Breakpoint 3'
+             WHEN device.browserSize != '(not set)' AND CAST((SPLIT(device.browserSize,'x'))[SAFE_OFFSET(0)] AS INT64) >=1280 THEN 'Breakpoint 4'
+             ELSE 'Unknown' END AS browser_breakpoint --includes 0s, screen with less than 10 megapixels and (not set)
+FROM `ga-360-bigquery-api.{}.ga_sessions_*`
+WHERE _TABLE_SUFFIX BETWEEN '{}' AND '{}'
+        AND totals.pageviews > 0 
+        AND lower(device.browser) NOT like '%app%' -- excl. app
+GROUP BY 1,2,3

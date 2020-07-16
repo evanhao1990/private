@@ -1,0 +1,10 @@
+# Gitignore
+
+# Filetypes
+**/.idea/
+**/.ipynb_checkpoints/
+**/.pyc/
+
+# Don't ignore
+!readme.md
+
