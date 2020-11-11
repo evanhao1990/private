@@ -1,0 +1,23 @@
+# Gitignore
+
+# Folders to ignore
+present/*
+!present/readme.md
+
+data/*
+!data/readme.md
+
+figures/*
+!figures/readme.md
+
+output/*
+!figures/readme.md
+
+# Filetypes
+**/.idea/
+**/.ipynb_checkpoints/
+**/.pyc/
+
+# Don't ignore
+!readme.md
+!environment.yml
