@@ -1,4 +1,4 @@
-numpy==1.17.4
+numpy==1.22.0
 pandas==0.25.3
 boto3==1.9.104
 colorlog==4.0.2
